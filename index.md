@@ -2,34 +2,26 @@
 
 SQLiteFlow is a database editor for SQLite 3.
 
-### Markdown
+### Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Data Viewer
+  • View, edit or add table data.
+  • View table data with a convenient filter. You can design many kind of filters like (A && B) || C, A && (C || B), etc.
+  • Copy data as CSV.
 
-```markdown
-Syntax highlighted code block
+Alter Table
+  • View, edit or add table fields, indexes, foreign keys, checks.
+  • View triggers.
+  • View DDL.
+  • Preview the query that for altering table.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SQLiteFlow/sqliteflow.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Query Editor
+  • Execute query and show query result.
+  • Explain query.
+  • Format query.
+  • Auto completion.
+  • Copy query with custom style.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions, create a issue [here](https://github.com/SQLiteFlow/sqliteflow.github.io/issues)
