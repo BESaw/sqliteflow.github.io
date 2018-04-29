@@ -6,20 +6,20 @@ macOS
 
 ## Features
 
-### Data Viewer
+**Data Viewer**
 
 - View, edit or add table data.
 - View table data with a convenient filter. You can design many kind of filters like (A && B) \|\| C, A && (C \|\| B), etc.
 - Copy data as CSV.
 
-### Alter Table
+**Alter Table**
 
 - View, edit or add table fields, indexes, foreign keys, checks.
 - View triggers.
 - View DDL.
 - Preview the query that for altering table.
 
-### Query Editor
+**Query Editor**
 
 - Execute query and show query result.
 - Explain query.
