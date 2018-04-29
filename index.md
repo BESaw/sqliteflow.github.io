@@ -4,7 +4,7 @@ SQLiteFlow is a database editor for SQLite 3.
 
 ### Features
 
-Data Viewer
+# Data Viewer
 
 - View, edit or add table data.
 - View table data with a convenient filter. You can design many kind of filters like (A && B) \|\| C, A && (C \|\| B), etc.
