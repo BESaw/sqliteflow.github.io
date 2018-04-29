@@ -1,6 +1,8 @@
 ## Introduction
-
 SQLiteFlow is a database editor for SQLite 3.
+
+## Platform
+macOS
 
 ## Features
 
