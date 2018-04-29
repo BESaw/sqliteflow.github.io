@@ -27,4 +27,4 @@ Query Editor
 
 ### Support or Contact
 
-If you have any questions, create a issue [here](https://github.com/SQLiteFlow/sqliteflow.github.io/issues)
+Have any questions? Create a issue [here](https://github.com/SQLiteFlow/sqliteflow.github.io/issues)
