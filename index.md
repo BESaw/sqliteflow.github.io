@@ -15,13 +15,10 @@ Data Viewer
 
 Alter Table
 
-  • View, edit or add table fields, indexes, foreign keys, checks.
-  
-  • View triggers.
-  
-  • View DDL.
-  
-  • Preview the query that for altering table.
+- View, edit or add table fields, indexes, foreign keys, checks.
+- View triggers.
+- View DDL.
+- Preview the query that for altering table.
 
 Query Editor
 
