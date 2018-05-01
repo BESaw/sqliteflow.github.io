@@ -47,8 +47,7 @@ macOS 10.12+
 **Other features**
 
 - Drag drop to open databases.
-- Handle database file name or directory changes. So this makes SQLiteFlow can work friendly with your SQLite databases in iOS Simulator.
-
+- Handle database file name or directory changes.
 
 ### Support or Contact
 
