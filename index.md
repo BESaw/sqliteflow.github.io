@@ -26,15 +26,6 @@ macOS 10.12+
 *Alter Table - Fields*
 ![Alter Table - Fields](AlterTable.png)
 
-*Alter Table - ForeignKeys*
-![Alter Table - ForeignKeys](ForeignKeys.png)
-
-*Alter Table - Triggers*
-![Alter Table - Triggers](Triggers.png)
-
-*Alter Table - Uniques*
-![Alter Table - Uniques](Uniques.png)
-
 *Alter Table - Preview*
 ![Alter Table - Preview](AlterPreview.png)
 
@@ -46,6 +37,8 @@ macOS 10.12+
 - Auto completion.
 - Copy query with custom style.
 
+![Editor](Editor.png)
+![Editor - CopyWithCustomStyle](CopyWithCustomStyle.png)
 
 ### Support or Contact
 
