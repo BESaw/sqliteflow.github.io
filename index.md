@@ -22,15 +22,20 @@ macOS 10.12+
 - View DDL.
 - Preview the query that for altering table.
 
+
 *Alter Table - Fields*
 ![Alter Table - Fields](AlterTable.png)
 
+*Alter Table - ForeignKeys*
 ![Alter Table - ForeignKeys](ForeignKeys.png)
 
+*Alter Table - Triggers*
 ![Alter Table - Triggers](Triggers.png)
 
+*Alter Table - Uniques*
 ![Alter Table - Uniques](Uniques.png)
 
+*Alter Table - Preview*
 ![Alter Table - Preview](AlterPreview.png)
 
 **Query Editor**
