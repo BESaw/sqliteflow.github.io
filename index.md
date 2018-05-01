@@ -22,8 +22,7 @@ macOS 10.12+
 - View DDL.
 - Preview the query that for altering table.
 
-![Alter Table - Fields]
-(AlterTable.png)
+![Alter Table - Fields](AlterTable.png)
 
 ![Alter Table - ForeignKeys](ForeignKeys.png)
 
