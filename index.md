@@ -14,6 +14,7 @@ macOS 10.12+
 
 ![](DataView.png)
 
+
 **Alter Table**
 
 - View, edit or add table fields, indexes, foreign keys, checks.
@@ -22,7 +23,9 @@ macOS 10.12+
 - Preview the query that for altering table.
 
 ![](AlterTable.png)
+
 ![](AlterPreview.png)
+
 
 **Query Editor**
 
@@ -31,6 +34,7 @@ macOS 10.12+
 - Format query.
 - Auto completion.
 - Copy query with custom style.
+
 
 ### Support or Contact
 
