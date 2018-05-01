@@ -37,7 +37,10 @@ macOS 10.12+
 - Auto completion.
 - Copy query with custom style.
 
+*Editor with Format Query support*
 ![Editor](Editor.png)
+
+*Editor - Copy With Custom Style*
 ![Editor - CopyWithCustomStyle](CopyWithCustomStyle.png)
 
 ### Support or Contact
