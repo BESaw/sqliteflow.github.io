@@ -44,6 +44,12 @@ macOS 10.12+
 *Editor - Copy With Custom Style and It's setting*
 ![Editor - CopyWithCustomStyle](CopyWithCustomStyle.png)
 
+**Other features**
+
+- Drag drop to open databases.
+- Handle database file name or directory changes. So this makes SQLiteFlow can work friendly with your SQLite databases in iOS Simulator.
+
+
 ### Support or Contact
 
 Have any questions? Create a issue [here](https://github.com/SQLiteFlow/sqliteflow.github.io/issues).
