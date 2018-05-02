@@ -32,7 +32,7 @@ macOS 10.12+
 
 **Query Editor**
 
-- Execute query and show query result.
+- Execute query and show query results.
 - Explain query.
 - Format query.
 - Auto completion.
