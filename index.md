@@ -51,4 +51,4 @@ macOS 10.12+
 
 ### Support or Contact
 
-Have any questions? Create a issue [here](https://github.com/SQLiteFlow/sqliteflow.github.io/issues).
+Have any questions? Create a issue [here](https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues).
