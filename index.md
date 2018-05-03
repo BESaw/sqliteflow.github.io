@@ -7,6 +7,7 @@ macOS 10.12+
 ## Download
 
 ![Download](DownloadOnTheMacAppStore.svg)
+<img src="https://itunes.apple.com/us/app/sqliteflow/id1378587993">
 
 ## Features
 
