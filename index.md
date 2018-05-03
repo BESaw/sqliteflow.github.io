@@ -51,9 +51,8 @@ macOS 10.12+
 
 ## Download
 
-![Download](DownloadOnTheMacAppStore.svg)
-<img src="https://itunes.apple.com/us/app/sqliteflow/id1378587993">
+![Download](DownloadOnTheMacAppStore.svg)(https://itunes.apple.com/us/app/sqliteflow/id1378587993)
 
-### Support or Contact
+## Support or Contact
 
 Have any questions? Create a issue [here](https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues).
