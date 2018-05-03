@@ -4,11 +4,6 @@ SQLiteFlow is a database editor for SQLite 3.
 ## Platform
 macOS 10.12+ 
 
-## Download
-
-![Download](DownloadOnTheMacAppStore.svg)
-<img src="https://itunes.apple.com/us/app/sqliteflow/id1378587993">
-
 ## Features
 
 **Data Viewer**
@@ -53,6 +48,11 @@ macOS 10.12+
 
 - Drag drop to open databases.
 - Handle database file name or directory changes.
+
+## Download
+
+![Download](DownloadOnTheMacAppStore.svg)
+<img src="https://itunes.apple.com/us/app/sqliteflow/id1378587993">
 
 ### Support or Contact
 
