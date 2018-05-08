@@ -48,6 +48,7 @@ macOS 10.12+
 
 - Drag drop to open databases.
 - Handle database file name or directory changes.
+- Attach opened databases.
 
 ## Download
 
