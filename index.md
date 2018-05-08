@@ -52,6 +52,7 @@ macOS 10.12+
 
 ## Download
 Version 1.0.2
+
 [![Download](DownloadOnTheMacAppStore.svg)](https://itunes.apple.com/app/id1378587993)
 
 ## Support or Contact
