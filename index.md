@@ -4,6 +4,9 @@ SQLiteFlow is a database editor for SQLite 3.
 ## Platform
 macOS 10.12+ 
 
+## Download
+[![Download](DownloadOnTheMacAppStore.svg)](https://itunes.apple.com/app/id1378587993)
+
 ## Features
 
 **Data Viewer**
@@ -49,9 +52,6 @@ macOS 10.12+
 - Drag drop to open databases.
 - Handle database file name or directory changes. This makes SQLiteFlow can work friendly with your SQLite database in iOS simulator.
 - Another very handy feature is SQLiteFlow is able to attach opened databases without any code, this could save lots of your time from writing ATTACH DATABASE commands.
-
-## Download
-[![Download](DownloadOnTheMacAppStore.svg)](https://itunes.apple.com/app/id1378587993)
 
 ## Support or Contact
 
