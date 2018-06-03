@@ -53,6 +53,8 @@ macOS 10.12+
 - Handle database file name or directory changes. This makes SQLiteFlow can work friendly with your SQLite database in iOS simulator.
 - Another very handy feature is SQLiteFlow is able to attach opened databases without any code, this could save lots of your time from writing ATTACH DATABASE commands.
 
+![UI - Attach Database](AttachDatabase.png)
+
 ## Support or Contact
 
 Have any questions? Create a issue [here](https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues).
