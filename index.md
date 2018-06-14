@@ -50,8 +50,10 @@ macOS 10.12+
 **Other features**
 
 - Drag drop to open databases.
-- Handle database file name or directory changes. This makes SQLiteFlow can work friendly with your SQLite database in iOS simulator.
-- Attach opened databases without any code is another very handy feature, this could save lots of your time from writing ATTACH DATABASE commands.
+- Handle database file name or directory changes.
+  This makes SQLiteFlow can work friendly with your SQLite database in iOS simulator.
+- Attach opened databases without any code.
+  This is a very handy feature that could save lots of your time from writing ATTACH DATABASE commands.
 
 *Attach Opened Databases without Any Code*
 ![UI - Attach Database](AttachDatabase.png)
