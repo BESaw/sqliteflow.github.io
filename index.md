@@ -58,6 +58,9 @@ macOS 10.12+
 *Attach Opened Databases without Any Code*
 ![UI - Attach Database](AttachDatabase.png)
 
+## Release Notes
+[Release Notes](ReleaseNotes)
+
 ## Support or Contact
 
 Have any questions? Create a issue [here](https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues).
