@@ -38,6 +38,7 @@ macOS 10.12+
 - Execute query and show query results.
 - Explain query.
 - Format query.
+- Syntax highlighting.
 - Auto completion.
 - Copy query with custom style.
 
