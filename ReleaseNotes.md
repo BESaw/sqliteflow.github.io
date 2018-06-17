@@ -15,4 +15,4 @@
 - Attach opened databases.
 - Press enter to open Data Viewer for selected table.
 
-[Home]()
+[Home](./)
