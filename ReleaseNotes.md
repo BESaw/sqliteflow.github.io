@@ -13,6 +13,6 @@
 
 1.0.2 - May 8, 2018
 - Attach opened databases.
-- Press enter to open Data Viewer for selected table.
+- Press enter to open Data Viewer for selected table.<br/>
 
-<br/>[Home](/)
+[Home](/)
