@@ -45,7 +45,7 @@ macOS 10.12+
 *Editor with Format Query support*
 ![Editor](Editor.png)
 
-*Editor - Copy With Custom Style and It's setting*
+*Editor - Copy With Custom Style and It's Setting*
 ![Editor - CopyWithCustomStyle](CopyWithCustomStyle.png)
 
 **Other features**
