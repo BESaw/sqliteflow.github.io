@@ -24,17 +24,6 @@ SQLiteFlow is a database editor for SQLite 3.
 <br/>
 <img src="iOS/Connect.png" width="310">
 
-**Alter Table**
-
-- View, edit or add table fields, indexes, foreign keys, checks.
-- View triggers.
-- View DDL.
-
-*Alter Table*
-<br/>
-<img src="iOS/AlterTable.png" width="310">
-<img src="iOS/AlterField.png" width="310">
-
 **Query Editor**
 
 - Execute query and show query results.
@@ -47,6 +36,16 @@ SQLiteFlow is a database editor for SQLite 3.
 <img src="iOS/QueryEditor.png" width="310">
 <img src="iOS/QueryResult.png" width="310">
 
+**Alter Table**
+
+- View, edit or add table fields, indexes, foreign keys, checks.
+- View triggers.
+- View DDL.
+
+*Alter Table*
+<br/>
+<img src="iOS/AlterTable.png" width="310">
+<img src="iOS/AlterField.png" width="310">
 
 ## Support or Contact
 
