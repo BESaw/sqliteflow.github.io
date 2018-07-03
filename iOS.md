@@ -2,21 +2,17 @@
 SQLiteFlow is a database editor for SQLite 3.
 
 ## Platform
-[macOS 10.12+]() / iOS 11.0+
-
-## Download
-[![Download](DownloadOnTheMacAppStore.svg)](https://itunes.apple.com/app/id1378587993)
+[macOS 10.12+](/) / iOS 11.0+
 
 ## Features
 
 **Data Viewer**
 
 - View, edit or add table data.
-- View table data with a convenient filter. You can design many kind of filters like (A && B) \|\| C, A && (C \|\| B), etc.
-- Copy data to CSV.
+- View table data with a convenient filter.
 
 *Data Viewer*
-![](DataView.png)
+![](iOS/DataView.png)
 
 
 **Alter Table**
