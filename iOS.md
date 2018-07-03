@@ -29,7 +29,6 @@ SQLiteFlow is a database editor for SQLite 3.
 - View, edit or add table fields, indexes, foreign keys, checks.
 - View triggers.
 - View DDL.
-- Preview the query that for altering table.
 
 *Alter Table*
 <br/>
