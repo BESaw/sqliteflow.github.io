@@ -32,7 +32,6 @@ SQLiteFlow is a database editor for SQLite 3.
 **Query Editor**
 
 - Execute query and show query results.
-- Explain query.
 - Format query.
 - Syntax highlighting.
 - Auto completion.
