@@ -27,7 +27,6 @@ SQLiteFlow is a database editor for SQLite 3.
 *Alter Table*
 <br/>
 <img src="iOS/AlterTable.png" width="310">
-<img src="iOS/FieldList.png" width="310">
 <img src="iOS/AlterField.png" width="310">
 
 **Query Editor**
