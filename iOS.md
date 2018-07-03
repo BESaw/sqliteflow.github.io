@@ -16,13 +16,20 @@ SQLiteFlow is a database editor for SQLite 3.
 <img src="iOS/DataView.png" width="310">
 <img src="iOS/Filter.png" width="310">
 
+**Connect**
+
+• Allow SQLiteFlow on Mac remote connect SQLite database on iOS device.
+
+*Connect*
+<br/>
+<img src="iOS/Connect.png" width="310">
+
 **Alter Table**
 
 - View, edit or add table fields, indexes, foreign keys, checks.
 - View triggers.
 - View DDL.
 - Preview the query that for altering table.
-
 
 *Alter Table*
 <br/>
