@@ -45,9 +45,8 @@ SQLiteFlow is a database editor for SQLite 3.
 *Query Editor*
 <br/>
 <img src="iOS/QueryEditor.png" width="310">
-<img src="iOS/QueryResult.png" width="310">
+
 
 ## Support or Contact
-
 
 Have any questions? Create a issue [here](https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues).
