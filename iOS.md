@@ -11,7 +11,7 @@ SQLiteFlow is a database editor for SQLite 3.
 - View, edit or add table data.
 - View table data with a convenient filter.
 
-*Data Viewer*
+*Data Viewer, Filter*
 <br/>
 <img src="iOS/DataView.png" width="310">
 <img src="iOS/Filter.png" width="310">
@@ -24,11 +24,11 @@ SQLiteFlow is a database editor for SQLite 3.
 - Preview the query that for altering table.
 
 
-*Alter Table - Fields*
-![Alter Table - Fields](AlterTable.png)
-
-*Alter Table - Preview*
-![Alter Table - Preview](AlterPreview.png)
+*Alter Table*
+<br/>
+<img src="iOS/AlterTable.png" width="310">
+<img src="iOS/FieldList.png" width="310">
+<img src="iOS/AlterField.png" width="310">
 
 **Query Editor**
 
