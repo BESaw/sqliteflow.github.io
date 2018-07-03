@@ -12,7 +12,7 @@ SQLiteFlow is a database editor for SQLite 3.
 - View table data with a convenient filter.
 
 *Data Viewer*
-![](iOS/DataView.png =621x1104)
+<img src="iOS/DataView.png" width="621">
 
 
 **Alter Table**
