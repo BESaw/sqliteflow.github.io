@@ -36,27 +36,12 @@ SQLiteFlow is a database editor for SQLite 3.
 - Format query.
 - Syntax highlighting.
 - Auto completion.
-- Copy query with custom style.
 
-*Editor with Format Query support*
-![Editor](Editor.png)
+*Query Editor*
+<br/>
+<img src="iOS/QueryEditor.png" width="310">
+<img src="iOS/QueryResult.png" width="310">
 
-*Editor - Copy With Custom Style and It's Setting*
-![Editor - CopyWithCustomStyle](CopyWithCustomStyle.png)
-
-**Other features**
-
-- Drag drop to open databases.
-- Handle database file name or directory changes.<br/>
-  This makes SQLiteFlow can work friendly with your SQLite database in iOS simulator.
-- Attach opened databases without any code.<br/>
-  This is a very handy feature that could save lots of your time from writing ATTACH DATABASE commands.
-
-*Attach Opened Databases without Any Code*
-![UI - Attach Database](AttachDatabase.png)
-
-## Release Notes
-[Release Notes](ReleaseNotes)
 
 ## Support or Contact
 
