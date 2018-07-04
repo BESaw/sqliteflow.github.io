@@ -20,7 +20,6 @@ SQLiteFlow is a database editor for SQLite 3.
 *Data Viewer*
 ![](DataView.png)
 
-
 **Alter Table**
 
 - View, edit or add table fields, indexes, foreign keys, checks.
