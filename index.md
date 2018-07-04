@@ -6,7 +6,6 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 
 ## Download
 [![Download](DownloadOnTheMacAppStore.svg)](https://itunes.apple.com/app/id1378587993)
-[![Download](iOS/DownloadOnTheAppStore.svg)](https://itunes.apple.com/app/sqliteflow/id1406266008)
 
 ## Features
 
