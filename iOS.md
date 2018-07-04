@@ -18,8 +18,8 @@ iOS 11.0+ / [macOS 10.12+](/)
 
 *Data Viewer & Filter*
 <br/>
-<img src="iOS/DataView.png" width="588">
-<img src="iOS/Filter.png" width="588">
+<img src="iOS/DataView.png" width="376">
+<img src="iOS/Filter.png" width="376">
 
 **Connect**
 
