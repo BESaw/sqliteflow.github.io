@@ -18,8 +18,8 @@ iOS 11.0+ / [macOS 10.12+](/)
 
 *Data Viewer & Filter*
 <br/>
-<img src="iOS/DataView.png" width="460">
-<img src="iOS/Filter.png" width="460">
+<img src="iOS/DataView.png" width="450">
+<img src="iOS/Filter.png" width="450">
 
 **Connect**
 
@@ -27,7 +27,7 @@ iOS 11.0+ / [macOS 10.12+](/)
 
 *Connect*
 <br/>
-<img src="iOS/Connect.png" width="310">
+<img src="iOS/Connect.png" width="450">
 
 **Alter Table**
 
@@ -37,8 +37,8 @@ iOS 11.0+ / [macOS 10.12+](/)
 
 *Alter Table*
 <br/>
-<img src="iOS/AlterTable.png" width="310">
-<img src="iOS/AlterField.png" width="310">
+<img src="iOS/AlterTable.png" width="450">
+<img src="iOS/AlterField.png" width="450">
 
 **Query Editor**
 
@@ -49,8 +49,8 @@ iOS 11.0+ / [macOS 10.12+](/)
 
 *Query Editor*
 <br/>
-<img src="iOS/QueryEditor.png" width="310">
-<img src="iOS/QueryResult.png" width="310">
+<img src="iOS/QueryEditor.png" width="450">
+<img src="iOS/QueryResult.png" width="450">
 
 ## Support or Contact
 
