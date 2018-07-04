@@ -1,3 +1,6 @@
+1.1.0 - Jul 4, 2018
+- Support open remote SQLite database on iPhone or iPad with SQLiteFlow(iOS) installed.
+
 1.0.5 - Jun 15, 2018
 - Fix an issue that cause read database failed when database be replaced.
 - Fix an issue that cause generate alter table script inaccurate.
