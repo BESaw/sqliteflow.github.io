@@ -49,6 +49,12 @@ SQLiteFlow is a database editor for SQLite 3.
 *Editor - Copy With Custom Style and It's Setting*
 ![Editor - CopyWithCustomStyle](CopyWithCustomStyle.png)
 
+**Open Remote**
+- Support open remote SQLite database on iPhone or iPad with SQLiteFlow(iOS) installed.
+
+*Open Remote*
+![Open Remote](CopyWithCustomStyle.png)
+
 **Other features**
 
 - Drag drop to open databases.
