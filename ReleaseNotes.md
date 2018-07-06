@@ -18,4 +18,7 @@
 - Attach opened databases.
 - Press enter to open Data Viewer for selected table.
 
+1.0.1 - May 4, 2018
+- Initial public release.
+
 [Home](/)
