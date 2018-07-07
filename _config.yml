@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: SQLiteFlow
-description: SQLite Editor for iOS & macOS
+description: SQLite Editor for macOS & iOS
 plugins:
   - jekyll-seo-tag
