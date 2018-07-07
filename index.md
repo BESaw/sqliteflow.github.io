@@ -1,7 +1,3 @@
----
-title: This is my title
----
-
 ## Introduction
 SQLiteFlow is a database editor for SQLite 3.
 
