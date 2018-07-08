@@ -21,14 +21,6 @@ iOS 11.0+ / [macOS 10.12+](/)
 <img src="iOS/DataView.png" width="450">
 <img src="iOS/Filter.png" width="450">
 
-**Connect**
-
-• Allow SQLiteFlow on Mac remote connect SQLite database on iPhone or iPad.
-
-*Connect*
-<br/>
-<img src="iOS/Connect.png" width="450">
-
 **Alter Table**
 
 - View, edit or add table fields, indexes, foreign keys, checks.
@@ -51,6 +43,14 @@ iOS 11.0+ / [macOS 10.12+](/)
 <br/>
 <img src="iOS/QueryEditor.png" width="450">
 <img src="iOS/QueryResult.png" width="450">
+
+**Connect**
+
+• Allow SQLiteFlow on Mac remote connect SQLite database on iPhone or iPad.
+
+*Connect*
+<br/>
+<img src="iOS/Connect.png" width="450">
 
 ## Support or Contact
 
