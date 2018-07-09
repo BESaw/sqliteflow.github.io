@@ -19,9 +19,15 @@
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
     </header>
-
+    
     <main id="content" class="main-content" role="main">
+      
       {{ content }}
+      
+      <footer class="site-footer">
+        <span class="site-footer-credits">Copyright © 2018 HyperObjc. All rights reserved.</span>
+      </footer>
+      
     </main>
     
     {% if site.google_analytics %}
