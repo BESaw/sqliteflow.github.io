@@ -52,4 +52,4 @@ SQLiteFlow is a database editor for SQLite 3.
 
 ## Support or Contact
 
-Have any questions? Create a issue [here](https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues).
+Have any questions or feature requests? Please feel free to create an issue [here](https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues).
