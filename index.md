@@ -69,4 +69,4 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 
 ## Support or Contact
 
-Have any questions or feature requests? Create a issue [here](https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues).
+Have any questions or feature requests? Please feel free to create a issue [here](https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues).
