@@ -47,8 +47,8 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 *Editor - Copy With Custom Style and It's Setting*
 ![Editor - CopyWithCustomStyle](CopyWithCustomStyle.png)
 
-**Open Remote**
-- Support open remote SQLite database on iPhone or iPad with SQLiteFlow(iOS) installed.
+**Open Remote Database**
+- Supports open remote SQLite database on iPhone or iPad with SQLiteFlow(iOS) installed.
 
 *Open Remote*
 ![Open Remote](OpenRemote.png)
