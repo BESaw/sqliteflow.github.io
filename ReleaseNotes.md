@@ -1,3 +1,7 @@
+1.2.1 - Jul 20, 2018
+- Fix a remote database connection issue when remote database's path contains special charachers.
+- Shortcuts in Query Editor: Cmd + R to run query, Cmd + . to stop query, Cmd + I to format query.
+
 1.1.0 - Jul 4, 2018
 - Supports open remote SQLite database on iPhone or iPad with SQLiteFlow(iOS) installed.
 
