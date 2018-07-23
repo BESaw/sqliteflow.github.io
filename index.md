@@ -5,7 +5,7 @@ SQLiteFlow is a database editor for SQLite 3.
 macOS 10.12+ / [iOS 11.0+](iOS)
 
 ## Download
-[![Download](DownloadOnTheMacAppStore.svg)](https://itunes.apple.com/app/id1378587993)
+[![Download](macOS/DownloadOnTheMacAppStore.svg)](https://itunes.apple.com/app/id1378587993)
 
 ## Features
 
@@ -16,7 +16,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 - Copy data to CSV.
 
 *Data Viewer*
-![](DataView.png)
+![](macOS/DataView.png)
 
 **Alter Table**
 
@@ -27,10 +27,10 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 
 
 *Alter Table - Fields*
-![Alter Table - Fields](AlterTable.png)
+![Alter Table - Fields](macOS/AlterTable.png)
 
 *Alter Table - Preview*
-![Alter Table - Preview](AlterPreview.png)
+![Alter Table - Preview](macOS/AlterPreview.png)
 
 **Query Editor**
 
@@ -42,16 +42,16 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 - Copy query with custom style.
 
 *Editor with Format Query support*
-![Editor](Editor.png)
+![Editor](macOS/Editor.png)
 
 *Editor - Copy With Custom Style and It's Setting*
-![Editor - CopyWithCustomStyle](CopyWithCustomStyle.png)
+![Editor - CopyWithCustomStyle](macOS/CopyWithCustomStyle.png)
 
 **Open Remote Database**
 - Supports open remote SQLite database on iPhone or iPad with SQLiteFlow(iOS) installed.
 
 *Open Remote*
-![Open Remote](OpenRemote.png)
+![Open Remote](macOS/OpenRemote.png)
 
 **Other features**
 
@@ -62,10 +62,10 @@ macOS 10.12+ / [iOS 11.0+](iOS)
   This is a very handy feature that could save lots of your time from writing ATTACH DATABASE commands.
 
 *Attach Opened Databases without Any Code*
-![UI - Attach Database](AttachDatabase.png)
+![UI - Attach Database](macOS/AttachDatabase.png)
 
 ## Release Notes
-[Release Notes](ReleaseNotes)
+[Release Notes](macOS/ReleaseNotes)
 
 ## Support or Contact
 
