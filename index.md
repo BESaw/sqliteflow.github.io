@@ -65,7 +65,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 ![UI - Attach Database](macOS/AttachDatabase.png)
 
 ## Release Notes
-[Release Notes](macOS/ReleaseNotes)
+[Release Notes](ReleaseNotes)
 
 ## Support or Contact
 
