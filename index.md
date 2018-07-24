@@ -50,8 +50,8 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 **Remote Connect**
 - Supports open remote SQLite database on iPhone or iPad with SQLiteFlow(iOS) installed.
 
-*Remote Connect*
-![Remote Connect](macOS/OpenRemote.png)
+*Open Remote Database*
+![Open Remote Database](macOS/OpenRemote.png)
 
 **Other features**
 
