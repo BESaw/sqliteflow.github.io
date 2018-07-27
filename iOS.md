@@ -51,7 +51,7 @@ SQLiteFlow is a database editor for SQLite 3.
 
 *Connect*
 <br/>
-<img src="iOS/Connect.png" width="450">
+<img src="iOS/RemoteConnect.png" width="450">
 
 ## Support or Contact
 
