@@ -1,3 +1,6 @@
+1.3.0 - Jul 29, 2018
+- Additional bug fixes and stability improvements.
+
 1.2.1 - Jul 20, 2018
 - Fix a remote database connection issue when remote database's path contains special charachers.
 - Shortcuts in Query Editor: Cmd + R to run query, Cmd + . to stop query, Cmd + I to format query.
