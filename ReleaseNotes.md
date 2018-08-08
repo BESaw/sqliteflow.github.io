@@ -1,3 +1,6 @@
+1.3.1 - Aug 8, 2018
+- Supports show database statistics. For now, the statistics include each table's name and record count.
+
 1.3.0 - Jul 29, 2018
 - Additional bug fixes and stability improvements.
 
