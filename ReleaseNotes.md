@@ -3,7 +3,7 @@
 
 1.3.2 - Aug 10, 2018
 
-Database Statistics
+  Database Statistics
 - Supports adjust each column's width based on its content automatically.
 - Display 'Records' in decimal style.
 
