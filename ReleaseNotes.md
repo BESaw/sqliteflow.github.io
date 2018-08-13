@@ -1,3 +1,11 @@
+1.3.3 - Aug 10, 2018
+- Additional bug fixes and stability improvements.
+
+1.3.2 - Aug 10, 2018
+Database Statistics
+- Supports adjust each column's width based on its content automatically.
+- Display 'Records' in decimal style.
+
 1.3.1 - Aug 8, 2018
 - Supports show database statistics. For now, the statistics include each table's name and record count.
 
