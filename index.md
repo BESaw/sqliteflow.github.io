@@ -48,7 +48,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 ![Editor - CopyWithCustomStyle](macOS/CopyWithCustomStyle.png)
 
 **Remote Connect**
-- Supports open remote SQLite database on iPhone or iPad with SQLiteFlow(iOS) installed.
+- Supports open remote SQLite database in iPhone or iPad with SQLiteFlow(iOS) installed.
 
 *Remote Connect*
 ![Open Remote Database](macOS/RemoteConnect.png)
