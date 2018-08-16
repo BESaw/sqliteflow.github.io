@@ -74,5 +74,5 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 
 Have any questions or feature requests? Please feel free to create an issue [here](https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues).
 
-<span class="site-footer-credits"><a href="/privacy">Privacy Policy</a></span>
+[Privacy Policy](/privacy)
 
