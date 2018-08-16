@@ -1,4 +1,4 @@
-## Privacy Policy ##
+## Privacy Policy
 
 This website uses Google Analytics to help analyse how visitors use this site. Google Analytics uses “cookies”, which are small text files placed on your computer, to collect standard internet log information and visitor behaviour information in an anonymous form. Note the deliberate emphasis of anonymous, as no personally identifiable information is collected about you.
 
