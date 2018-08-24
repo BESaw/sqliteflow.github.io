@@ -11,6 +11,11 @@ SQLiteFlow is a database editor for SQLite 3.
 
 **Table List**
 
+- Table filter.
+- Display each table's name and record count.
+
+*Table List*
+<br/>
 <img src="iOS/TableList.png" width="450">
 
 **Data Viewer**
