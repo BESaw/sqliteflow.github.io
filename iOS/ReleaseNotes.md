@@ -1,4 +1,5 @@
 1.3.4 - Aug 22, 2018
+
 Alter Table
 - Fix an issue that causes incorrect input behavior when using Pinyin keyboard.
 - When there's only one field in a table, disable 'Delete' field option, since SQLite does not allow a table has no field.
