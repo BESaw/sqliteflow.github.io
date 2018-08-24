@@ -53,6 +53,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 *Remote Connect*
 ![Open Remote Database](macOS/RemoteConnect.png)
 
+
 **Database Statistics**
 - For now, the statistics include each table's name and record count.
 
