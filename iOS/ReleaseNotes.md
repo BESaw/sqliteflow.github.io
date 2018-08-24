@@ -1,8 +1,6 @@
 1.3.4 - Aug 22, 2018
-
-Alter Table
-- Fix an issue that causes incorrect input behavior when using Pinyin keyboard.
-- When there's only one field in a table, disable 'Delete' field option, since SQLite does not allow a table has no field.
+- (Alter Table) Fix an issue that causes incorrect input behavior when using Pinyin keyboard.
+- (Alter Table) When there's only one field in a table, disable 'Delete' field option, since SQLite does not allow a table has no field.
 
 1.3.3 - Aug 10, 2018
 - In table list, each table's row counts supports display in decimal style.
