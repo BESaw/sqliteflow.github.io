@@ -56,6 +56,9 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 **Database Statistics**
 - For now, the statistics include each table's name and record count.
 
+*Database Statistics*
+![Database Statistics](macOS/Statistics.png)
+
 **Other features**
 
 - Drag drop to open databases.
