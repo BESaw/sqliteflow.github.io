@@ -47,18 +47,17 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 *Editor - Copy With Custom Style and It's Setting*
 ![Editor - CopyWithCustomStyle](macOS/CopyWithCustomStyle.png)
 
-**Remote Connect**
-- Supports open remote SQLite database in iPhone or iPad with SQLiteFlow(iOS) installed.
-
-*Remote Connect*
-![Open Remote Database](macOS/RemoteConnect.png)
-
-<br/>
 **Database Statistics**
 - For now, the statistics include each table's name and record count.
 
 *Database Statistics*
 ![Database Statistics](macOS/Statistics.png)
+
+**Remote Connect**
+- Supports open remote SQLite database in iPhone or iPad with SQLiteFlow(iOS) installed.
+
+*Remote Connect*
+![Open Remote Database](macOS/RemoteConnect.png)
 
 **Other features**
 
