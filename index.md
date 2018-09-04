@@ -38,7 +38,6 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 - Syntax highlighting.
 - SQL auto-completion.
 - Format query.
-- Supports wrap lines.
 - Copy query with custom style.
 - Explain query.
 
