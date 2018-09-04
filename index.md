@@ -34,12 +34,13 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 
 **Query Editor**
 
-- Execute query and show query results.
-- Explain query.
-- Format query.
+- Multi-query execution.
 - Syntax highlighting.
-- Auto completion.
+- SQL auto-completion.
+- Format query.
+- Supports wrap lines.
 - Copy query with custom style.
+- Explain query.
 
 *Editor with Format Query support*
 ![Editor](macOS/Editor.png)
