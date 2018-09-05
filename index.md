@@ -39,6 +39,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 - SQL auto-completion.
 - Format query.
 - Copy query with custom style.
+- Supports wrap lines.
 - Explain query.
 
 *Editor with Format Query support*
