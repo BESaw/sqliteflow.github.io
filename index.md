@@ -19,7 +19,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 - Supports wrap lines.
 - Explain query.
 
-*Editor with Format Query support*
+*Editor with Multi-query support*
 ![Editor](macOS/Editor.png)
 
 *Editor - Copy With Custom Style and It's Setting*
