@@ -16,7 +16,7 @@ SQLiteFlow is an SQLite editor. And it makes its best to be intuitive, stable an
 - SQL auto-completion.
 - Format query.
 
-*Query Editor with Multi-query execution*
+*Query Editor with Multi-query execution support*
 <br/>
 <img src="iOS/QueryEditor.png" width="450">
 <img src="iOS/QueryResult.png" width="450">
