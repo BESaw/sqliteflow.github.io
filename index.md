@@ -9,6 +9,22 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 
 ## Features
 
+**Query Editor**
+
+- Multi-query execution.
+- Syntax highlighting.
+- SQL auto-completion.
+- Format query.
+- Copy query with custom style.
+- Supports wrap lines.
+- Explain query.
+
+*Editor with Format Query support*
+![Editor](macOS/Editor.png)
+
+*Editor - Copy With Custom Style and It's Setting*
+![Editor - CopyWithCustomStyle](macOS/CopyWithCustomStyle.png)
+
 **Data Viewer**
 
 - View, edit or add table data.
@@ -31,22 +47,6 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 
 *Alter Table - Preview*
 ![Alter Table - Preview](macOS/AlterPreview.png)
-
-**Query Editor**
-
-- Multi-query execution.
-- Syntax highlighting.
-- SQL auto-completion.
-- Format query.
-- Copy query with custom style.
-- Supports wrap lines.
-- Explain query.
-
-*Editor with Format Query support*
-![Editor](macOS/Editor.png)
-
-*Editor - Copy With Custom Style and It's Setting*
-![Editor - CopyWithCustomStyle](macOS/CopyWithCustomStyle.png)
 
 **Database Statistics**
 - Display table counts and each table's record count.
