@@ -19,10 +19,10 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 - Supports toggle wrap lines.
 - Explain query.
 
-*Editor with Multi-query execution support*
+*Query Editor with Multi-query execution support*
 ![Editor](macOS/Editor.png)
 
-*Editor - Copy With Custom Style and It's Setting*
+*Query Editor - Copy With Custom Style and It's Setting*
 ![Editor - CopyWithCustomStyle](macOS/CopyWithCustomStyle.png)
 
 **Data Viewer**
