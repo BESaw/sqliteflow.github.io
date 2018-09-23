@@ -1,17 +1,17 @@
 2.0.1 - Sep 5, 2018
-- (Database Statistics) Display table counts and each table's record count.
-- (Database Statistics) Display each table's storage consumed and storage consumed detail, including table data storage consumed and indexes storage consumed. (* Available on macOS 10.13+)
-- (Query Editor) Supports wrap lines. To toggle it on or off, go to Menu - Edit - Structure - Toggle Wrap Lines, or use shortcut Option + Cmd + L.
-- (Query Editor) Improved SQL auto-completion.
-- (Query Editor) Improved context menu.
-- (Query Editor) Improved line number.
+- [Database Statistics] Display table counts and each table's record count.
+- [Database Statistics] Display each table's storage consumed and storage consumed detail, including table data storage consumed and indexes storage consumed. [* Available on macOS 10.13+]
+- [Query Editor] Supports wrap lines. To toggle it on or off, go to Menu - Edit - Structure - Toggle Wrap Lines, or use shortcut Option + Cmd + L.
+- [Query Editor] Improved SQL auto-completion.
+- [Query Editor] Improved context menu.
+- [Query Editor] Improved line number.
 
 1.3.3 - Aug 10, 2018
 - Additional bug fixes and stability improvements.
 
 1.3.2 - Aug 10, 2018
-- (Database Statistics) Supports adjust each column's width based on its content automatically.
-- (Database Statistics) Display 'Records' in decimal style.
+- [Database Statistics] Supports adjust each column's width based on its content automatically.
+- [Database Statistics] Display 'Records' in decimal style.
 
 1.3.1 - Aug 8, 2018
 - Supports show database statistics. For now, the statistics include each table's name and record count.
@@ -24,7 +24,7 @@
 - Shortcuts in Query Editor: Cmd + R to run query, Cmd + . to stop query, Cmd + I to format query.
 
 1.1.0 - Jul 4, 2018
-- Supports open remote SQLite database on iPhone or iPad with SQLiteFlow(iOS) installed.
+- Supports open remote SQLite database on iPhone or iPad with SQLiteFlow[iOS] installed.
 
 1.0.5 - Jun 15, 2018
 - Fix an issue that cause read database failed when database be replaced.
