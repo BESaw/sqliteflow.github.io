@@ -1,3 +1,11 @@
+2.0.1 - Sep 5, 2018
+- (Database Statistics) Display table counts and each table's record count.
+- (Database Statistics) Display each table's storage consumed and storage consumed detail, including table data storage consumed and indexes storage consumed. (* Available on macOS 10.13+)
+- (Query Editor) Supports wrap lines. To toggle it on or off, go to Menu - Edit - Structure - Toggle Wrap Lines, or use shortcut Option + Cmd + L.
+- (Query Editor) Improved SQL auto-completion.
+- (Query Editor) Improved context menu.
+- (Query Editor) Improved line number.
+
 1.3.3 - Aug 10, 2018
 - Additional bug fixes and stability improvements.
 
