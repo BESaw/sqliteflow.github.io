@@ -42,7 +42,6 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 - View DDL.
 - Preview the query that for altering table.
 
-
 *Alter Table - Fields*
 ![Alter Table - Fields](macOS/AlterTable.png)
 
