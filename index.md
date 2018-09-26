@@ -64,6 +64,8 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 
 **Dark Mode**
 - Supports Dark Mode for macOS Mojave.
+
+*Dark Mode*
 ![Dark Mode](macOS/DarkMode.png)
 
 **Other features**
