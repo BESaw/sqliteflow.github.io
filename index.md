@@ -62,6 +62,9 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 *Remote Connect*
 ![Open Remote Database](macOS/RemoteConnect.png)
 
+Dark Mode
+• Supports Dark Mode for macOS Mojave.
+
 **Other features**
 
 - Drag drop to open databases.
