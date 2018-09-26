@@ -1,3 +1,11 @@
+2.1.0 - Sep 26, 2018
+- Supports Dark Mode for macOS Mojave.
+- Supports customize syntax highlighting. 
+- Add two default themes which are Light and Dark.
+- In Query Editor, Use Cmd+ to make the font bigger, Cmd- to make the font smaller.
+- Format Query, Toggle Comments, Toggle Wrap Lines have been moved to Editor menu.
+- Fix an issue that causes syntax highlighting incorrect when typing block style comment.
+
 2.0.1 - Sep 5, 2018
 - [Database Statistics] Display table counts and each table's record count.
 - [Database Statistics] Display each table's storage consumed and storage consumed detail, including table data storage consumed and indexes storage consumed. [* Available on macOS 10.13+]
