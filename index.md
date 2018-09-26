@@ -49,6 +49,12 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 *Alter Table - Preview*
 ![Alter Table - Preview](macOS/AlterPreview.png)
 
+**Dark Mode**
+- Supports Dark Mode for macOS Mojave.
+
+*Dark Mode*
+![Dark Mode](macOS/DarkMode.png)
+
 **Database Statistics**
 - Display table counts and each table's record count.
 - Display each table's storage consumed and storage consumed detail, including table data storage consumed and indexes storage consumed. (* Available on macOS 10.13+)
@@ -61,12 +67,6 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 
 *Remote Connect*
 ![Open Remote Database](macOS/RemoteConnect.png)
-
-**Dark Mode**
-- Supports Dark Mode for macOS Mojave.
-
-*Dark Mode*
-![Dark Mode](macOS/DarkMode.png)
 
 **Other features**
 
