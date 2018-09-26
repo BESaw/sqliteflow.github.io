@@ -12,12 +12,13 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 **Query Editor**
 
 - Multi-query execution.
-- Syntax highlighting.
+- Customize syntax highlighting.
 - SQL auto-completion.
 - Format query.
 - Copy query with custom style.
 - Supports toggle wrap lines.
 - Explain query.
+- Cmd+ to make the font bigger, Cmd- to make the font smaller.
 
 *Query Editor with Multi-query execution support*
 ![Editor](macOS/Editor.png)
