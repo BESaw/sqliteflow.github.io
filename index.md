@@ -76,7 +76,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 - Attach opened databases without any code.<br/>
   This is a very handy feature that could save lots of your time from writing ATTACH DATABASE commands.
 
-*Attach Opened Databases without Any Code*
+*Attach Opened Databases*
 ![UI - Attach Database](macOS/AttachDatabase.png)
 
 ## Release Notes
