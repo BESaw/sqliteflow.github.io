@@ -23,7 +23,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 *Query Editor - Multi-query Execution*
 ![Editor](macOS/Editor.png)
 
-*Query Editor - Copy With Custom Style and It's Setting*
+*Query Editor - Copy Query with Custom Style and It's Setting*
 ![Editor - CopyWithCustomStyle](macOS/CopyWithCustomStyle.png)
 
 **Data Viewer**
