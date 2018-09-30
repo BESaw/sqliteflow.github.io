@@ -20,7 +20,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 - Explain query.
 - Cmd+ to make the font bigger, Cmd- to make the font smaller.
 
-*Query Editor with Multi-query execution support*
+*Query Editor - Multi-query Execution*
 ![Editor](macOS/Editor.png)
 
 *Query Editor - Copy With Custom Style and It's Setting*
