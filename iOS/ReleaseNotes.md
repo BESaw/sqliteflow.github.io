@@ -1,3 +1,8 @@
+1.3.5 - Sep 27, 2018
+- Fix an issue that causes syntax highlighting incorrect when typing block style comment.
+- Fix an issue that causes load database library failed when there's another app that declares it owns SQLite database file type.
+- Additional bug fixes and stability improvements.
+
 1.3.4 - Aug 22, 2018
 - (Alter Table) Fix an issue that causes incorrect input behavior when using Pinyin keyboard.
 - (Alter Table) When there's only one field in a table, disable 'Delete' field option, since SQLite does not allow a table has no field.
