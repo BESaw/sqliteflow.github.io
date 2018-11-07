@@ -1,3 +1,7 @@
+1.3.6 - Nov 7, 2018
+- Supports work with SQLiteFlow(macOS) to handle remote database diff.
+- Additional bug fixes and stability improvements.
+
 1.3.5 - Sep 27, 2018
 - Fix an issue that causes syntax highlighting incorrect when typing block style comment.
 - Fix an issue that causes load database library failed when there's another app that declares it owns SQLite database file type.
