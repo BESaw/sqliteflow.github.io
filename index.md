@@ -67,6 +67,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 **Database Diff**
 - Supports generate SQL text that can let you transform a database into another.
 - Supports show a summary of the differences between two databases.
+![Database Diff](macOS/DatabaseDiff.png)
 
 **Remote Connect**
 - Supports open remote SQLite database in iPhone or iPad with SQLiteFlow(iOS) installed.
