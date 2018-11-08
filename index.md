@@ -18,6 +18,9 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 - Copy query with custom style.
 - Supports toggle wrap lines.
 - Explain query.
+- Paste recent query sessions.
+- Save the query to a file.
+- Load the query from a file.
 - Cmd+ to make the font bigger, Cmd- to make the font smaller.
 
 *Query Editor - Multi-query Execution*
@@ -60,6 +63,10 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 
 *Database Statistics*
 ![Database Statistics](macOS/Statistics.png)
+
+**Database Diff**
+- Supports generate SQL text that can let you transform a database into another.
+- Supports show a summary of the differences between two databases.
 
 **Remote Connect**
 - Supports open remote SQLite database in iPhone or iPad with SQLiteFlow(iOS) installed.
