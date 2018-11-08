@@ -1,7 +1,6 @@
 2.2.0 - Nov 8, 2018
 - [Database Diff] Supports generate SQL text that can let you transform a database into another.
 - [Database Diff] Supports show only a summary of the differences between two databases.
-
 - [Query Editor] Supports paste recent query sessions.
 - [Query Editor] Supports save the query to a file.
 - [Query Editor] Supports load the query from a file.
