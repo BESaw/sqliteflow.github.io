@@ -1,3 +1,7 @@
+2.2.1 - Nov 12, 2018
+- Display two groups in Paste Recent menu: Recent Files group and Recent Temporary Sessions group.
+- Additional bug fixes and stability improvements.
+
 2.2.0 - Nov 8, 2018
 - [Database Diff] Supports generate SQL text that can let you transform a database into another.
 - [Database Diff] Supports show only a summary of the differences between two databases.
