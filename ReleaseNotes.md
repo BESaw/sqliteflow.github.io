@@ -1,3 +1,8 @@
+3.0.0 - Dec 9, 2018
+- Supports multiple windows.
+- Supports Cmd + W to close selected tab.
+- Additional bug fixes and stability improvements.
+
 2.2.1 - Nov 12, 2018
 - Display two groups in Paste Recent menu: Recent Files group and Recent Temporary Sessions group.
 - Additional bug fixes and stability improvements.
