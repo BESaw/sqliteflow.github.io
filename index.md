@@ -82,6 +82,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
   This makes SQLiteFlow can work friendly with your SQLite database in iOS simulator.
 - Attach opened databases without any code.<br/>
   This is a very handy feature that could save lots of your time from writing ATTACH DATABASE commands.
+- Supports multiple windows.
 
 *Attach Opened Databases*
 ![UI - Attach Database](macOS/AttachDatabase.png)
