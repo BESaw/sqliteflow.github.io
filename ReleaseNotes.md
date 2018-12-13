@@ -1,3 +1,7 @@
+3.0.1 - Dec 13, 2018
+- Supports REGEXP operator for local SQLite databases when running query. Go Preferences - General - 'REGEXP operator' to enable or disable it.
+- Data Viewer Filter also supports REGEXP if 'REGEXP operator' is enabled in Preferences.
+
 3.0.0 - Dec 9, 2018
 - Supports multiple windows.
 - Supports Cmd + W to close selected tab.
