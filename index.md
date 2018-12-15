@@ -1,5 +1,5 @@
 ## Introduction
-SQLiteFlow is an intuitive, stable, reliable to use and cross-platform SQLite editor for Mac and iOS devices.
+SQLiteFlow for Mac is an SQLite editor which is intuitive, stable and reliable to use.
 
 ## Platform
 macOS 10.12+ / [iOS 11.0+](iOS)
