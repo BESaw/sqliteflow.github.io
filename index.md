@@ -84,11 +84,15 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 
 **Attach Database**
 - Attach opened databases without any code. This is a very handy feature that could save lots of your time from writing ATTACH DATABASE commands.
+
 *Attach Opened Databases*
 ![UI - Attach Database](macOS/AttachDatabase.png)
 
 **Multiple windows**
 - Supports multiple windows when you work with SQLiteFlow.
+
+**REGEXP operator**
+- Supports REGEXP operator for local databases when REGEXP operator is enabled in Preferences.
 
 ## Release Notes
 [Release Notes](ReleaseNotes)
