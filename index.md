@@ -80,7 +80,6 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 
 *Attach Opened Databases*
 ![UI - Attach Database](macOS/AttachDatabase.png)
-
 **Drag and Drop**
 - Drag and drop to open databases and sql scripts.
 
