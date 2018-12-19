@@ -80,11 +80,12 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 
 *Attach Opened Databases*
 ![UI - Attach Database](macOS/AttachDatabase.png)
+
 **Drag and Drop**
 - Drag and drop to open databases and sql scripts.
 
 **Handle Database File Name or Directory Changes**
-- This makes SQLiteFlow can work friendly with your SQLite databases in iOS simulator.
+- For instance, this makes SQLiteFlow can work friendly with your SQLite databases in iOS simulator.
 
 **Multiple windows**
 - Supports multiple windows when you work with SQLiteFlow.
