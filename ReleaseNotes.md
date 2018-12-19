@@ -1,3 +1,6 @@
+3.0.2 - Dec 19, 2018
+- Additional bug fixes and stability improvements.
+
 3.0.1 - Dec 13, 2018
 - Supports REGEXP operator for local SQLite databases when running query. Go Preferences - General - 'REGEXP operator' to enable or disable it.
 - Data Viewer Filter also supports REGEXP if 'REGEXP operator' is enabled in Preferences.
