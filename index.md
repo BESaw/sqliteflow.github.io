@@ -75,18 +75,17 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 *Remote Connect*
 ![Open Remote Database](macOS/RemoteConnect.png)
 
+**Attach Database**
+- Attach opened databases without any code. This is a very handy feature that could save lots of your time from writing ATTACH DATABASE commands.
+
+*Attach Opened Databases*
+![UI - Attach Database](macOS/AttachDatabase.png)
 
 **Drag and Drop**
 - Drag and drop to open databases and sql scripts.
 
 **Handle Database File Name or Directory Changes**
 - This makes SQLiteFlow can work friendly with your SQLite databases in iOS simulator.
-
-**Attach Database**
-- Attach opened databases without any code. This is a very handy feature that could save lots of your time from writing ATTACH DATABASE commands.
-
-*Attach Opened Databases*
-![UI - Attach Database](macOS/AttachDatabase.png)
 
 **Multiple windows**
 - Supports multiple windows when you work with SQLiteFlow.
