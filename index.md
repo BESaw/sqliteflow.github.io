@@ -92,7 +92,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 - Supports multiple windows when you work with SQLiteFlow.
 
 **REGEXP operator**
-- Supports REGEXP operator for local databases when REGEXP operator is enabled in Preferences.
+- Supports REGEXP operator for local databases when 'REGEXP operator' is enabled in Preferences.
 
 ## Release Notes
 [Release Notes](ReleaseNotes)
