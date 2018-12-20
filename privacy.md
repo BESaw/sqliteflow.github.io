@@ -1,8 +1,8 @@
 ## Privacy Policy
 
-1. SQLiteFlow for macOS doesn't collect your data.
+1. SQLiteFlow for Mac doesn't collect your data, period.
 
-2. SQLiteFlow for iOS doesn't collect your data too.
+2. SQLiteFlow for iOS doesn't collect your data, period.
 
 3. This website(https://www.sqliteflow.com) uses Google Analytics to help analyse how visitors use this site. Google Analytics uses “cookies”, which are small text files placed on your computer, to collect standard internet log information and visitor behaviour information in an anonymous form. Note the deliberate emphasis of anonymous, as no personally identifiable information is collected about you.
    
