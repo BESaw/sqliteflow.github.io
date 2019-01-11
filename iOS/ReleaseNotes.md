@@ -1,3 +1,6 @@
+1.3.7 - Jan 11, 2019
+- Supports work with SQLiteFlow(macOS) to handle remote import CSV file.
+
 1.3.6 - Nov 7, 2018
 - Supports work with SQLiteFlow(macOS) to handle remote database diff.
 - Additional bug fixes and stability improvements.
