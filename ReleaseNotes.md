@@ -1,3 +1,8 @@
+3.1.0 - Jan 11, 2019
+- Supports sorting by click on column in Data Viewer.
+- Supports import CSV data.
+- Additional bug fixes and stability improvements.
+
 3.0.2 - Dec 19, 2018
 - Additional bug fixes and stability improvements.
 
