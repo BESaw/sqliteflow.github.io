@@ -1,5 +1,3 @@
-[Home](/iOS)
-
 1.3.7 - Jan 11, 2019
 - Supports work with SQLiteFlow(macOS) to handle remote import CSV file.
 
