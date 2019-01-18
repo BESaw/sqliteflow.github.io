@@ -50,6 +50,9 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 **Import**
 - Supports import CSV data.
 
+*Import from CSV Text*
+![Import - Import from CSV Text](macOS/ImportFromCSV.png)
+
 **Dark Mode**
 - Supports Dark Mode for macOS Mojave.
 
