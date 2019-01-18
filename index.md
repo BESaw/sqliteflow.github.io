@@ -16,12 +16,8 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 - SQL auto-completion.
 - Format query.
 - Copy query with custom style.
-- Supports toggle wrap lines.
-- Explain query.
 - Paste recent query sessions.
-- Save the query to a file.
-- Load the query from a file.
-- Cmd+ to make the font bigger, Cmd- to make the font smaller.
+- Explain query.
 
 *Query Editor - Multi-query Execution*
 ![Editor](macOS/Editor.png)
@@ -50,6 +46,9 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 
 *Alter Table - Preview*
 ![Alter Table - Preview](macOS/AlterPreview.png)
+
+**Import**
+- Supports import CSV data.
 
 **Dark Mode**
 - Supports Dark Mode for macOS Mojave.
@@ -83,12 +82,10 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 
 **Drag and Drop**
 - Drag and drop to open databases and sql scripts.
+- Create multiple windows.
 
 **Handle Database File Name or Directory Changes**
 - For instance, this makes SQLiteFlow can work friendly with your SQLite databases in iOS simulator.
-
-**Multiple windows**
-- Supports multiple windows when you work with SQLiteFlow.
 
 **REGEXP operator**
 - Supports REGEXP operator for local databases when 'REGEXP operator' is enabled in Preferences.
