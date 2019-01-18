@@ -1,4 +1,4 @@
-[Home](/)
+[Back Home](/)
 
 3.2.0 - Jan 18, 2019
 - Supports filter tables and views in database list.
@@ -88,4 +88,4 @@
 1.0.1 - May 4, 2018
 - Initial public release.
 
-[Home](/)
+[Back Home](/)
