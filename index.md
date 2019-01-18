@@ -84,6 +84,9 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 - Drag and drop to open databases and sql scripts.
 - Create multiple windows.
 
+*Multiple windows*
+![Multiple windows](macOS/MultipleWindows.png)
+
 **Handle Database File Name or Directory Changes**
 - For instance, this makes SQLiteFlow can work friendly with your SQLite databases in iOS simulator.
 
