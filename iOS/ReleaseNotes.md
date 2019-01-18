@@ -1,4 +1,4 @@
-[Back Home](/iOS)
+[Home](/iOS)
 
 1.3.7 - Jan 11, 2019
 - Supports work with SQLiteFlow(macOS) to handle remote import CSV file.
@@ -35,4 +35,4 @@
 1.1.0 - Jul 4, 2018
 - Initial public release.
 
-[Back Home](/iOS)
+[Home](/iOS)
