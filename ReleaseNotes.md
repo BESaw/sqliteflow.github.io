@@ -1,3 +1,7 @@
+3.2.0 - Jan 18, 2019
+- Supports filter tables and views in database list.
+- Additional bug fixes and stability improvements.
+
 3.1.0 - Jan 11, 2019
 - Supports sorting by click on column in Data Viewer.
 - Supports import CSV data.
