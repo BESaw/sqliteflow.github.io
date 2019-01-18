@@ -1,5 +1,3 @@
-[Home](/)
-
 3.2.0 - Jan 18, 2019
 - Supports filter tables and views in database list.
 - Additional bug fixes and stability improvements.
