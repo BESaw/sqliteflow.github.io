@@ -1,3 +1,12 @@
+3.3.0 - Jan 28, 2019
+- Supports 'Show Previous Tab (Ctrl+Shift+Tab)'
+- Supports 'Show Next Tab (Ctrl+Tab)'
+- Supports 'Merge Tabs of This Database into New Window'
+- Supports 'Move Tabs to Main Window'
+- Supports 'Exchange Tabs with Main Window Tabs'
+- Fix an issue that cause window size not remembered.
+- Fix an issue that cause open FTS table failed.
+
 3.2.0 - Jan 18, 2019
 - Supports filter tables and views in database list.
 - Additional bug fixes and stability improvements.
