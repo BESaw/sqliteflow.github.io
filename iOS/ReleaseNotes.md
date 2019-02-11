@@ -1,3 +1,10 @@
+2.0.0 - Feb 11, 2019
+- Start with version 2.0.0, to execute queries, creating or choosing an SQL file is needed. 
+- Supports save queries.
+- Supports long press a file item to rename a file.
+- Supports long press a file item to duplicate a file.
+- Additional bug fixes and stability improvements.
+
 1.3.7 - Jan 11, 2019
 - Supports work with SQLiteFlow(macOS) to handle remote import CSV file.
 
