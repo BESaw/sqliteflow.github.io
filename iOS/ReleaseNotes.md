@@ -1,3 +1,6 @@
+3.0.0 - Mar 6, 2019
+- We offer 2 weeks of free trial now, feel free to come on in and take a try.
+
 2.0.0 - Feb 11, 2019
 - Start with version 2.0.0, to execute queries, creating or choosing an SQL file is needed. 
 - Supports save queries.
