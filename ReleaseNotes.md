@@ -1,3 +1,7 @@
+3.3.1 - Mar 6, 2019
+- Add shortcut Cmd + Shift + R to 'Run selected query'.
+- Additional bug fixes and stability improvements.
+
 3.3.0 - Jan 28, 2019
 - Supports 'Show Previous Tab (Ctrl+Shift+Tab)'
 - Supports 'Show Next Tab (Ctrl+Tab)'
