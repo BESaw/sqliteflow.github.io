@@ -1,4 +1,4 @@
-3.0.0 - Mar 6, 2019
+3.0.2 - Mar 7, 2019
 - We offer 2 weeks of free trial now, feel free to come on in and take a try.
 
 2.0.0 - Feb 11, 2019
