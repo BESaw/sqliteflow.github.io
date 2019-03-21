@@ -1,3 +1,6 @@
+3.0.3 - Mar 21, 2019
+- Fix an issue that may cause 'Copy to SQLiteFlow' from Files app have no response.
+
 3.0.2 - Mar 7, 2019
 - Fix an issue that may cause duplicate purchase.
 
