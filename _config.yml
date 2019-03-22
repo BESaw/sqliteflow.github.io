@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: SQLiteFlow
 description: SQLite Editor for Mac & iOS
 google_analytics: UA-122000070-1
+plugins:
+  - jekyll-redirect-from
