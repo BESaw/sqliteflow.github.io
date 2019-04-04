@@ -1,3 +1,8 @@
+3.1.0 - Apr , 2019
+- Supports drag and drop to import or export SQLite databases and SQL files.
+- Supports use a document picker to import SQLite databases and SQL files.
+- Additional bug fixes and stability improvements.
+
 3.0.3 - Mar 21, 2019
 - Fix an issue that may cause 'Copy to SQLiteFlow' from Files app have no response.
 
