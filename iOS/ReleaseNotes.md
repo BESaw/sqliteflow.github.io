@@ -1,4 +1,4 @@
-3.1.0 - Apr , 2019
+3.1.0 - Apr 4, 2019
 - Supports drag and drop to import or export SQLite databases and SQL files.
 - Supports use a document picker to import SQLite databases and SQL files.
 - Additional bug fixes and stability improvements.
