@@ -58,5 +58,5 @@ SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reli
 
 ## Support or Contact
 
-Have any questions or feature requests? Please feel free to [create an issue](issues).
+Have any questions or feature requests? Please feel free to [create an issue](https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues).
 
