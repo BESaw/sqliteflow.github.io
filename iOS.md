@@ -65,6 +65,17 @@ SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reli
 <br/>
 <img src="iOS/RemoteConnect.png" width="450">
 
+**Database Statistics**
+
+- Supports show records count of each table.
+- Supports show total size of each table
+- Supports show size of each table's content.
+- Supports show size of each table's index.
+
+*Database Statistics*
+<br/>
+<img src="iOS/Statistics.png" width="450">
+
 **Database Diff**
 
 - Supports generate SQL text that can let you transform a database into another.
