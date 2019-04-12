@@ -10,7 +10,7 @@ SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reli
 ## Features
 
 **Database List**
-- Manage databases. Supports operations: add, remove, duplicate, rename.
+- Manage databases. Supported operations: add, remove, duplicate, rename.
 - Supports import database from iCould Drive by the file picker.
 - Supports import/export database through Drag and Drop gestures.
 - Supports create new datatbase.
