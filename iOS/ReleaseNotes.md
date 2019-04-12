@@ -1,5 +1,6 @@
 3.2.0 - Apr 12, 2019
-<br/>Data Viewer
+
+Data Viewer
 - Supports sort records by tap on column title.
 
 Database Statistics
