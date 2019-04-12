@@ -1,7 +1,7 @@
 3.2.0 - Apr 12, 2019
 
-Data Viewer
-- Supports sort records by tap on column title.
+
+- [Data Viewer] Supports sort records by tap on column title.
 
 Database Statistics
 - Supports show records count of each table.
