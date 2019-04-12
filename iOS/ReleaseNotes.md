@@ -1,6 +1,5 @@
 3.2.0 - Apr 12, 2019
-
-Data Viewer
+<br/>Data Viewer
 - Supports sort records by tap on column title.
 
 Database Statistics
@@ -8,7 +7,7 @@ Database Statistics
 - Supports show total size of each table
 - Supports show size of each table's content.
 - Supports show size of each table's index.
-This feature may help you get more insight about your SQLite databases' data storage information, which may let you see if there're any chances to let SQLite working in a more effective way in your device.
+<br/>This feature may help you get more insight about your SQLite databases' data storage information, which may let you see if there're any chances to let SQLite working in a more effective way in your device.
 
 Database Diff
 - Supports generate SQL text that can let you transform a database into another.
