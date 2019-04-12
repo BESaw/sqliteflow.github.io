@@ -19,6 +19,7 @@ SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reli
 *Database List*
 <br/>
 <img src="iOS/DatabaseList.png" width="450">
+<img src="iOS/DatabaseGuide.png" width="450">
 
 **Query Editor**
 
