@@ -59,11 +59,20 @@ SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reli
 
 **Connect**
 
-• Allow SQLiteFlow on Mac remote connect SQLite database in iPhone or iPad.
+- Allow SQLiteFlow on Mac remote connect SQLite database in iPhone or iPad.
 
 *Connect*
 <br/>
 <img src="iOS/RemoteConnect.png" width="450">
+
+**Database Diff**
+
+- Supports generate SQL text that can let you transform a database into another.
+- Supports show a summary of the differences between two databases.
+
+*Database Diff*
+<br/>
+<img src="iOS/DatabaseDiff.png" width="450">
 
 ## Release Notes
 [Release Notes](iOS/ReleaseNotes)
