@@ -92,6 +92,7 @@ SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reli
 *Database Diff*
 <br/>
 <img src="iOS/DatabaseDiff.png" width="450">
+<br/>
 <img src="iOS/DatabaseDiffOutput.png" width="450">
 
 ## Release Notes
