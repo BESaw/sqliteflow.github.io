@@ -7,7 +7,7 @@ Database Statistics
 - Supports show records count of each table.
 - Supports show total size of each table
 - Supports show size of each table's content.
-- Supports show size of each table's index. 
+- Supports show size of each table's indexes. 
 <br/>This feature may help you get more insight about your SQLite databases' data storage information, which may let you see if there're any chances to let SQLite working in a more effective way in your device.
 
 Database Diff
