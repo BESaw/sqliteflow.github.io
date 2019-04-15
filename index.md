@@ -61,7 +61,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 
 **Database Statistics**
 - Display table counts and each table's record count.
-- Display each table's storage consumed and storage consumed detail, including table data storage consumed and indexes storage consumed. Requires macOS 10.13.
+- Display total size of each table, size of each table's content and size of each table's indexes. Requires macOS 10.13.
 
 *Database Statistics*
 ![Database Statistics](macOS/Statistics.png)
