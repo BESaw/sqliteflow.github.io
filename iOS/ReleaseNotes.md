@@ -1,3 +1,6 @@
+3.3.0 - Apr 19, 2019
+- Supports import CSV data.
+
 3.2.0 - Apr 12, 2019
 
 Data Viewer
