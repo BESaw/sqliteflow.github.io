@@ -95,6 +95,14 @@ SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reli
 <br/>
 <img src="iOS/DatabaseDiffOutput.png" width="450">
 
+**Database Diff**
+
+- Supports import CSV data.
+
+*Import CSV data*
+<br/>
+<img src="iOS/ImportCSV.png" width="450">
+
 ## Release Notes
 [Release Notes](iOS/ReleaseNotes)
 
