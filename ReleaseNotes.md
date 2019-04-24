@@ -1,3 +1,6 @@
+3.5.0 - Apr 24, 2019
+- We offer 2 weeks of free trial now, feel free to come on in and take a try.
+
 3.3.1 - Mar 6, 2019
 - Add shortcut Cmd + Shift + R to 'Run selected query'.
 - Additional bug fixes and stability improvements.
