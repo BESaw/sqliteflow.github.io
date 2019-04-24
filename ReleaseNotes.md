@@ -1,3 +1,6 @@
+3.5.1 - Pending release...
+- Fix an issue that may cause paid users see getting trial or getting full unlock screen.
+
 3.5.0 - Apr 24, 2019
 - We offer 2 weeks of free trial now, feel free to come on in and take a try.
 
