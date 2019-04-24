@@ -1,6 +1,8 @@
 3.5.1 - Pending Release...
 - Fix an issue that may cause paid users see getting trial or getting full unlock screen.
 
+For users who experiencing this issue, you can just click 'Get the Free Trial' to continue using the app as a workaround before updating to the fixed version.
+
 ## Introduction
 SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reliable to use.
 
