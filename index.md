@@ -3,7 +3,7 @@
 
 3.5.1 - Apr 25, 2019
 - Fix an issue that may cause paid users see getting trial or getting full unlock screen.
-<br/>For users who experiencing this issue, you can just click 'Get the Free Trial' to continue using the app as a workaround before updating to the fixed version.
+- For users who experiencing this issue, you can just click 'Get the Free Trial' to continue using the app as a workaround before updating to the fixed version.
 
 
 ## Introduction
