@@ -1,7 +1,5 @@
 3.5.2 - Apr 26, 2019
 - Fix an issue that may cause Data Viewer showing empty records.
-<br/>
-<br/>
 
 ## Introduction
 SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reliable to use.
