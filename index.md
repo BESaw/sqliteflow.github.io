@@ -1,4 +1,4 @@
-3.5.2 - Pending Release...
+3.5.2 - Apr 26, 2019
 - Fix an issue that may cause Data Viewer showing empty records.
 
 3.5.1 - Apr 25, 2019
