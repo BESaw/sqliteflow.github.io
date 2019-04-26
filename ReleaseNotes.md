@@ -1,11 +1,8 @@
-3.5.2 - Pending Release...
+3.5.2 - Apr 26, 2019
 - Fix an issue that may cause Data Viewer showing empty records.
 
 3.5.1 - Apr 25, 2019
 - Fix an issue that may cause paid users see getting trial or getting full unlock screen.
-<br/>For users who experiencing this issue, you can just click ‘Get the Free Trial’ to continue using the app as a workaround before updating to the fixed version.
-<br/>
-<br/>
 
 3.5.0 - Apr 24, 2019
 - We offer 2 weeks of free trial now, feel free to come on in and take a try.
