@@ -1,4 +1,4 @@
-3.5.2 - Apr 27, 2019
+3.5.3 - Apr 27, 2019
 - Fix an issue that cause sorting by clicking on column in Data Viewer not working.
 - Improvements in Dark Mode.
 - Let the free trial feature's description more clearer.
