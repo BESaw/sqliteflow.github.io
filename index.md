@@ -4,7 +4,6 @@
 - Performance improvements for syntax highlighting.
 - Fix an issue that may cause click to open files from Finder may have no effect.
 - Additional bug fixes and stability improvements.
-<br/>[More](ReleaseNotes){:target="_blank"}
 
 ## Introduction
 SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reliable to use.
@@ -105,9 +104,9 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 - Supports REGEXP operator for local databases when 'REGEXP operator' is enabled in Preferences.
 
 ## Release Notes
-[Release Notes](ReleaseNotes)
+[Release Notes](ReleaseNotes){:target="_blank"}
 
 ## Support or Contact
 
-Have any questions or feature requests? Please feel free to [create an issue](https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues).
+Have any questions or feature requests? Please feel free to [create an issue](https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues){:target="_blank"}.
 
