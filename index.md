@@ -5,7 +5,7 @@
 - Fix an issue that may cause click to open files from Finder may have no effect.
 - Additional bug fixes and stability improvements.
 
-<br/>[More](ReleaseNotes){:target="_blank"}
+[More](ReleaseNotes){:target="_blank"}
 
 ## Introduction
 SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reliable to use.
