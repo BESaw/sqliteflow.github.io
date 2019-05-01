@@ -4,11 +4,7 @@
 - Performance improvements for syntax highlighting.
 - Fix an issue that may cause click to open files from Finder may have no effect.
 - Additional bug fixes and stability improvements.
-
-3.5.3 - Apr 27, 2019
-- Fix an issue that cause sorting by clicking on column in Data Viewer not working.
-- Improvements in Dark Mode.
-- Let the free trial feature's description more clearer.
+[More](ReleaseNotes)
 
 ## Introduction
 SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reliable to use.
