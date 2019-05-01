@@ -4,7 +4,6 @@
 - Performance improvements for syntax highlighting.
 - Fix an issue that may cause click to open files from Finder may have no effect.
 - Additional bug fixes and stability improvements.
-
 [More](ReleaseNotes){:target="_blank"}
 
 ## Introduction
