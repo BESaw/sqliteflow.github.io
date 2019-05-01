@@ -1,3 +1,9 @@
+3.5.4 - May 1, 2019
+- Performance improvements for format query.
+- Performance improvements for syntax highlighting.
+- Fix an issue that may cause click to open files from Finder may have no effect.
+- Additional bug fixes and stability improvements.
+
 3.5.3 - Apr 27, 2019
 - Fix an issue that cause sorting by clicking on column in Data Viewer not working.
 - Improvements in Dark Mode.
