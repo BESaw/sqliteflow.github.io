@@ -1,3 +1,6 @@
+3.3.0 - Apr 19, 2019
+- Supports import CSV data.
+
 ## Introduction
 SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reliable to use.
 
