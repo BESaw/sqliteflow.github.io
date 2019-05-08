@@ -1,3 +1,6 @@
+3.4.0 - May 8, 2019
+- Supports export table/view data and query result to CSV format.
+
 3.3.0 - Apr 19, 2019
 - Supports import CSV data.
 
