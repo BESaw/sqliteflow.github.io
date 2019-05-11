@@ -1,3 +1,6 @@
+3.5.5 - May 10, 2019
+- Additional bug fixes and stability improvements.
+
 3.5.4 - May 1, 2019
 - Performance improvements for format query.
 - Performance improvements for syntax highlighting.
