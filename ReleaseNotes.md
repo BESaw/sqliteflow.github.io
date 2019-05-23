@@ -1,3 +1,6 @@
+3.5.6 - May 23, 2019
+- Fix an issue that cause 'Set NULL' when editing data takes no effect.
+
 3.5.5 - May 10, 2019
 - Additional bug fixes and stability improvements.
 
