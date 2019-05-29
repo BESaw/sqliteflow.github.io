@@ -31,7 +31,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 - View table data with a convenient data filter.
 - Copy data to CSV.
 
-*Editor*
+*Data Editor*
 ![](macOS/DataEditor.png)
 
 **Alter Table**
