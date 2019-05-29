@@ -25,7 +25,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 *Query Editor - Copy Query with Custom Style and It's Setting*
 ![Editor - CopyWithCustomStyle](macOS/CopyWithCustomStyle.png)
 
-**Data Viewer**
+**Data Editor**
 
 - View, edit or add table data.
 - View table data with a convenient data filter.
