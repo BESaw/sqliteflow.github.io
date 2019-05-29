@@ -40,12 +40,12 @@ SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reli
 <img src="iOS/QueryEditor.png" width="450">
 <img src="iOS/QueryResult.png" width="450">
 
-**Data Viewer**
+**Data Editor**
 
 - View, edit or add table data.
 - View table data with a convenient data filter.
 
-*Data Viewer*
+*Data Editor*
 <br/>
 <img src="iOS/DataView.png" width="450">
 
