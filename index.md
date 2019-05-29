@@ -29,6 +29,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 
 - View, edit or add table data.
 - View table data with a convenient data filter.
+- View or edit blob data as hex or image.
 - Copy data to CSV.
 
 *Data Editor*
