@@ -32,7 +32,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 - Copy data to CSV.
 
 *Editor*
-![](macOS/DataView.png)
+![](macOS/DataEditor.png)
 
 **Alter Table**
 
