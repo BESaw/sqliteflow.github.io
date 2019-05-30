@@ -1,10 +1,10 @@
 3.6.0 - May 30, 2019
-- [Data Editor] Supports IS NULL and IS NOT NULL filter.
-- [Data Editor] Supports automatically reload a row from database if one of the row's field be updated in Data Editor.
-- [Edit as Hex] Supports edit blob as hex.
-- [Edit as Hex] Supports display blob as image if blob data is an image.
-- [Query Editor] Fix an issue that may cause auto adjust column width for Message tab's sql column sometimes shorter than expected.
-- [Database List] Fix an issue that cause load database failed when a database contains virtual table that use an unknown module.
+- Supports IS NULL and IS NOT NULL filter in Data Editor
+- Supports automatically reload a row from database if one of the row's field be updated in Data Editor in Data Editor.
+- Supports edit blob as hex.
+- Supports display blob as image if blob data is an image.
+- Fix an issue that may cause auto adjust column width for Message tab's sql column sometimes shorter than expected in Query Editor.
+- Fix an issue that cause load database failed when a database contains virtual table that use an unknown module.
 
 3.5.6 - May 23, 2019
 - Fix an issue that cause 'Set NULL' when editing data takes no effect.
