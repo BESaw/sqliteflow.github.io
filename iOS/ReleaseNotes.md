@@ -1,3 +1,10 @@
+3.5.0 - Jun 19, 2019
+- Supports edit blob as hex.
+- Supports show blob as image if possible.
+- Supports IS NULL and IS NOT NULL filter in Data Editor
+- Supports create sample database.
+- Fix an issue that cause load database failed when a database contains virtual table that use an unknown module.
+
 3.4.0 - May 8, 2019
 - Supports export table/view data and query result to CSV format.
 
