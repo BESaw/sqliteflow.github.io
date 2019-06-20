@@ -1,3 +1,8 @@
+3.6.1 - Jun 20, 2019
+- Supports save blob data to a file.
+- Supports create sample database.
+- Additional bug fixes and stability improvements.
+
 3.6.0 - May 30, 2019
 - Supports IS NULL and IS NOT NULL filter in Data Editor
 - Supports automatically reload a row from database if one of the row's field be updated in Data Editor in Data Editor.
