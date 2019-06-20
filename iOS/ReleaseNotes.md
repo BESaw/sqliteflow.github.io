@@ -1,3 +1,8 @@
+3.6.0 - Jun 20, 2019
+- Hex Editor now supports save blob data to a file.
+- Hex Editor now supports drag and drop to import data from another app like Files.
+- Hex Editor now supports drag and drop an image to export it to another app like Files.
+
 3.5.0 - Jun 19, 2019
 - Supports edit blob as hex.
 - Supports show blob as image if possible.
