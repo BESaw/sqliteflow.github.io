@@ -4,22 +4,21 @@
   <head>
     
     <meta charset="UTF-8">
+    {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="shortcut icon" type="image/x-icon" href="https://avatars2.githubusercontent.com/u/38027540?s=60&v=4">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script type="application/ld+json">
-    {"@type":"WebSite","url":"https://www.sqliteflow.com/","headline":"Introduction to SQLiteFlow","name":"SQLiteFlow","description":"SQLiteFlow for Mac. SQLiteFlow for iOS.","@context":"http://schema.org"}
-    </script>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     
   </head>
   
   <body>
     
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
     </header>
     
     <main id="content" class="main-content" role="main">
