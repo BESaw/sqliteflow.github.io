@@ -44,6 +44,8 @@ SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reli
 
 - View, edit or add table data.
 - View table data with a convenient data filter.
+- Sort records by tapping on column title.
+- Edit blob as hex, show blob as image if possible.
 
 *Data Editor*
 <br/>
