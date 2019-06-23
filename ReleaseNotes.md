@@ -1,3 +1,9 @@
+---
+layout: default
+title: SQLiteFlow
+description: SQLiteFlow for Mac release notes.
+---
+
 3.6.2 - Jun 23, 2019
 -  Fix an issue that if a database file has .sql file extension, it be recognized as a malformed sql script file instead of a database file.
 
