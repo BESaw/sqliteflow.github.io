@@ -1,3 +1,9 @@
+---
+layout: default
+title: SQLiteFlow
+description: SQLiteFlow for Mac
+---
+
 ## Introduction
 SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reliable to use.
 
