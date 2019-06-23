@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SQLiteFlow
-description: SQLiteFlow Editor for Mac
+description: SQLite Editor for Mac
 ---
 
 ## Introduction
