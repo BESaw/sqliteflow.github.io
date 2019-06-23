@@ -1,3 +1,9 @@
+---
+layout: default
+title: SQLiteFlow
+description: SQLiteFlow privacy policy.
+---
+
 ## Privacy Policy
 
 1. SQLiteFlow for Mac doesn't collect your data.
