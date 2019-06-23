@@ -6,7 +6,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 
 ## Download
 Version 3.6.2 | Jun 23, 2019 | [Release Notes](ReleaseNotes)
-<br/>[![Download](macOS/DownloadOnTheMacAppStore.svg)](macappstores://itunes.apple.com/app/id1378587993)
+<br/><br/>[![Download](macOS/DownloadOnTheMacAppStore.svg)](macappstores://itunes.apple.com/app/id1378587993)
 
 ## Features
 
