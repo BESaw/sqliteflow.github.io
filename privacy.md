@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SQLiteFlow
-description: SQLiteFlow Privacy Policy
+description: SQLiteFlow privacy policy.
 ---
 
 ## Privacy Policy
