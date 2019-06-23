@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SQLiteFlow
-description: SQLite Editor for iOS
+description: SQLite editor for iOS
 ---
 
 ## Introduction
