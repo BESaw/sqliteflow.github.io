@@ -118,5 +118,5 @@ Version 3.6.0 | Jun 20, 2019 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 
 ## Support or Contact
 
-Have any questions or feature requests? Please feel free to [create an issue](https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues).
+Have any questions or feature requests? Please feel free to <a href="https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues" target="_blank">create an issue</a>.
 
