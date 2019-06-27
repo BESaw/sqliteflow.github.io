@@ -28,7 +28,6 @@ SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯�
 <img src="iOS/DatabaseGuide.png" width="450">
 
 **表列表**
-
 - 支援顯示錶名和記錄數。
 
 *表列表*
@@ -36,7 +35,6 @@ SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯�
 <img src="iOS/TableList.png" width="450">
 
 **SQL編輯器**
-
 - 支援多SQL執行。
 - 自定義語法高亮。
 - SQL程式碼自動補全。
@@ -48,7 +46,6 @@ SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯�
 <img src="iOS/QueryResult.png" width="450">
 
 **資料編輯器**
-
 - 檢視，編輯，新增和刪除資料。
 - 資料過濾器。
 - 點選標題行排序
@@ -63,7 +60,6 @@ SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯�
 <img src="iOS/Filter.png" width="450">
 
 **修改表結構**
-
 - 檢視，編輯和新增表字段，索引，外來鍵，唯一約束和檢查約束。
 - 檢視觸發器。
 - 查看錶定義。
@@ -74,7 +70,6 @@ SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯�
 <img src="iOS/AlterField.png" width="450">
 
 **連線**
-
 - 支援SQLiteFlow(macOS)遠端連線到在本應用中的資料庫。
 
 *連線*
@@ -82,7 +77,6 @@ SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯�
 <img src="iOS/RemoteConnect.png" width="450">
 
 **資料庫統計**
-
 - 顯示錶數和表中的記錄數。
 - 顯示每個表的佔用空間，及每個表中資料佔用的空間和和索引佔用的空間。
 
@@ -92,7 +86,6 @@ SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯�
 <img src="iOS/StatisticsDetail.png" width="450">
 
 **資料庫比較**
-
 - 支援生成使一個數據庫轉為另一個數據庫SQL語句。
 - 支援只顯示兩個資料庫之間的不同的摘要資訊。
 
@@ -103,7 +96,6 @@ SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯�
 <img src="iOS/DatabaseDiffOutput.png" width="450">
 
 **匯入**
-
 - 支援匯入CSV資料。
 
 *匯入CSV資料。*
@@ -111,10 +103,11 @@ SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯�
 <img src="iOS/ImportCSV.png" width="450">
 
 **匯出**
-
 - 支援匯出表資料、檢視資料和查詢結果到CSV。
 
-## 聯絡我們
+**語言**
+- [English](/) \| [简体中文](/zh-Hans/iOS) \| [繁體中文](/zh-Hant/iOS)
 
+## 聯絡我們
 有問題或者新需求? 請到這裡來<a href="https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues" target="_blank">建立一個新Issue</a>。
 
