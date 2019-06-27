@@ -28,7 +28,6 @@ Version 3.6.0 | Jun 20, 2019 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 <img src="iOS/DatabaseGuide.png" width="450">
 
 **Table List**
-
 - Supports display each table's name and records count.
 
 *Table List*
@@ -36,7 +35,6 @@ Version 3.6.0 | Jun 20, 2019 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 <img src="iOS/TableList.png" width="450">
 
 **Query Editor**
-
 - Multi-query execution.
 - Syntax highlighting.
 - SQL auto-completion.
@@ -48,7 +46,6 @@ Version 3.6.0 | Jun 20, 2019 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 <img src="iOS/QueryResult.png" width="450">
 
 **Data Editor**
-
 - View, edit or add table data.
 - View table data with a convenient data filter.
 - Sort records by tapping on column title.
@@ -63,7 +60,6 @@ Version 3.6.0 | Jun 20, 2019 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 <img src="iOS/Filter.png" width="450">
 
 **Alter Table**
-
 - View, edit or add table fields, indexes, foreign keys, checks.
 - View triggers.
 - View DDL.
@@ -74,7 +70,6 @@ Version 3.6.0 | Jun 20, 2019 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 <img src="iOS/AlterField.png" width="450">
 
 **Connect**
-
 - Allow SQLiteFlow on Mac remote connect SQLite database in iPhone or iPad.
 
 *Connect*
@@ -82,7 +77,6 @@ Version 3.6.0 | Jun 20, 2019 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 <img src="iOS/RemoteConnect.png" width="450">
 
 **Database Statistics**
-
 - Supports show records count of each table.
 - Supports show total size of each table
 - Supports show size of each table's content.
@@ -94,7 +88,6 @@ Version 3.6.0 | Jun 20, 2019 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 <img src="iOS/StatisticsDetail.png" width="450">
 
 **Database Diff**
-
 - Supports generate SQL text that can let you transform a database into another.
 - Supports show a summary of the differences between two databases.
 
@@ -105,7 +98,6 @@ Version 3.6.0 | Jun 20, 2019 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 <img src="iOS/DatabaseDiffOutput.png" width="450">
 
 **Import**
-
 - Supports import CSV data.
 
 *Import CSV data*
@@ -113,10 +105,11 @@ Version 3.6.0 | Jun 20, 2019 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 <img src="iOS/ImportCSV.png" width="450">
 
 **Export**
-
 - Supports export table/view data and query result to CSV format.
 
-## Support or Contact
+**Languages**
+- English \| [Chinese (Simplified)](/zh-Hans/iOS) \| [Chinese (Traditional)](/zh-Hant/iOS)
 
+## Support or Contact
 Have any questions or feature requests? Please feel free to <a href="https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues" target="_blank">create an issue</a>.
 
