@@ -105,7 +105,7 @@ Version 3.6.2 | Jun 23, 2019 | <a href="ReleaseNotes" target="_blank">Release No
 - Supports REGEXP operator for local databases when 'REGEXP operator' is enabled in Preferences.
 
 **Languages**
-- English \| [简体中文](/zh-Hans) \| [繁體中文](/zh-Hant)
+- English \| [简体中文 (Chinese, Simplified)](/zh-Hans) \| [繁體中文 (Chinese, Traditional)](/zh-Hant)
 
 ## Support or Contact
 Have any questions or feature requests? Please feel free to <a href="https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues" target="_blank">create an issue</a>.
