@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SQLiteFlow
-description: SQLiteFlow for Mac release notes.
+description: Mac SQLiteFlow 更新说明。
 ---
 
 3.7.0 - 2019年6月28日
