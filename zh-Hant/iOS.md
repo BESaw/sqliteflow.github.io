@@ -106,7 +106,7 @@ SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯�
 - 支援匯出表資料、檢視資料和查詢結果到CSV。
 
 **語言**
-- [English](/) \| [简体中文](/zh-Hans/iOS) \| 繁體中文
+- [English](/) \| [简体中文 (Chinese, Simplified)](/zh-Hans/iOS) \| 繁體中文 (Chinese, Traditional)
 
 ## 聯絡我們
 有問題或者新需求? 請到這裡來<a href="https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues" target="_blank">建立一個新Issue</a>。
