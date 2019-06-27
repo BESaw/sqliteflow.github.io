@@ -95,7 +95,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 - 支持用拖拽操作来打开数据库和SQL脚本文件。
 - 创建多窗口。
 
-*多窗口s*
+*多窗口*
 ![Multiple windows](macOS/MultipleWindows.png)
 
 **自动处理数据库文件名或者路径变化**
