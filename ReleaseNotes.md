@@ -151,4 +151,4 @@ description: SQLiteFlow for Mac release notes.
 1.0.1 - May 4, 2018
 - Initial public release.
 
-[Home](/)
+[Home](./)
