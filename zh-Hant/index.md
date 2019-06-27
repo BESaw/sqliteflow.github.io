@@ -105,7 +105,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 - 當您在偏好設定中開啟‘REGEXP運算子’後，您就可以在資料編輯器或者SQL編輯器中使用REGEXP運算子了。
 
 **語言**
-- [English](/) \| [简体中文](/zh-Hans) \| 繁體中文
+- [English](/) \| [简体中文 (Chinese, Simplified)](/zh-Hans) \| 繁體中文 (Chinese, Traditional)
 
 ## 聯絡我們
 有問題或者新需求? 請到這裡來<a href="https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues" target="_blank">建立一個新Issue</a>。
