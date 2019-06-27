@@ -1,109 +1,109 @@
 ---
 layout: default
 title: SQLiteFlow
-description: SQLite editor for Mac
+description: Mac SQLite编辑器
 ---
 
-## Introduction
-SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reliable to use.
+## SQLiteFlow
+SQLiteFlow是为Mac和iOS平台开发的直观，稳定和易用的SQLite编辑器。
 
-## Platform
+## 支持平台
 macOS 10.12+ / [iOS 11.0+](iOS)
 
-## Download
-Version 3.6.2 | Jun 23, 2019 | <a href="ReleaseNotes" target="_blank">Release Notes</a>
+## 下载
+版本 3.6.2 | 2019-06-23 | <a href="ReleaseNotes" target="_blank">更新说明</a>
 <br/><br/>[![Download](macOS/DownloadOnTheMacAppStore.svg)](macappstores://itunes.apple.com/app/id1378587993)
 
 ## Features
 
-**Query Editor**
+**SQL编辑器**
 
-- Multi-query execution.
-- Customize syntax highlighting.
-- SQL auto-completion.
-- Format query.
-- Copy query with custom style.
-- Paste recent query sessions.
-- Explain query.
+- 支持多SQL执行。
+- 自定义语法高亮。
+- SQL代码自动补全。
+- 格式化查询。
+- 自定义风格拷贝查询。
+- 粘贴最近使用查询会话。
+- 解释查询。
 
-*Query Editor - Multi-query Execution*
+*SQL编辑器 - 支持多SQL执行。*
 ![Editor](macOS/Editor.png)
 
-*Query Editor - Copy Query with Custom Style and It's Setting*
+*SQL编辑器- 自定义风格拷贝查询与它的设置页面。*
 ![Editor - CopyWithCustomStyle](macOS/CopyWithCustomStyle.png)
 
-**Data Editor**
+**数据编辑器**
 
-- View, edit or add table data.
-- View table data with a convenient data filter.
-- Edit blob as hex, show blob as image if possible.
-- Copy data to CSV.
+- 查看，编辑，添加和删除数据。
+- 数据过滤器。
+- 以十六进制编辑Blob数据，如果可能，支持将其显示为图片。
+- 拷贝数据到CSV。
 
-*Data Editor*
+*数据编辑器*
 ![](macOS/DataEditor.png)
 
-**Alter Table**
+**修改表结构**
 
-- View, edit or add table fields, indexes, foreign keys, checks.
-- View triggers.
-- View DDL.
-- Preview the query that for altering table.
+- 查看，编辑和添加表字段，索引，外键，唯一约束和检查约束。
+- 查看触发器。
+- 查看表定义。
+- 预览修改表结构的SQL。
 
-*Alter Table - Fields*
+*修改表结构 - 修改字段*
 ![Alter Table - Fields](macOS/AlterTable.png)
 
-*Alter Table - Preview*
+*修改表结构 - 预览修改*
 ![Alter Table - Preview](macOS/AlterPreview.png)
 
-**Import**
-- Supports import CSV data.
+**导入**
+- 支持导入CSV数据。
 
-*Import from CSV Text*
+*导入文本*
 ![Import - Import from CSV Text](macOS/ImportFromCSV.png)
 
-**Dark Mode**
-- Supports Dark Mode for macOS Mojave.
+**深色模式**
+- 支持macOS Mojave深色模式。
 
-*Dark Mode*
+*深色模式*
 ![Dark Mode](macOS/DarkMode.png)
 
-**Database Statistics**
-- Display table counts and each table's record count.
-- Display total size of each table, size of each table's content and size of each table's indexes. Requires macOS 10.13.
+**数据库统计**
+- 显示表数和表中的记录数。
+- 显示每个表的占用空间，及每个表中数据占用的空间和和索引占用的空间。 (* 需要macOS 10.13+支持)
 
-*Database Statistics*
+*数据库统计*
 ![Database Statistics](macOS/Statistics.png)
 
-**Database Diff**
-- Supports generate SQL text that can let you transform a database into another.
-- Supports show a summary of the differences between two databases.
+**数据库比较**
+- 支持生成使一个数据库转为另一个数据库SQL语句。
+- 支持只显示两个数据库之间的不同的摘要信息。
 ![Database Diff](macOS/DatabaseDiff.png)
 
-**Remote Connect**
-- Supports open remote SQLite database in iPhone or iPad with SQLiteFlow(iOS) installed.
+**远程连接**
+- 支持远程连接在SQLiteFlow(iOS)中的数据库。
 
 *Remote Connect*
 ![Open Remote Database](macOS/RemoteConnect.png)
 
-**Attach Database**
-- Attach opened databases without any code. This is a very handy feature that could save lots of your time from writing ATTACH DATABASE commands.
+**附加数据库**
+- 无需任何代码，即可附加数据库，帮您省下很多写ATTACH DATABASE命令的时间。
 
-*Attach Opened Databases*
+*附加已打开的数据库*
 ![UI - Attach Database](macOS/AttachDatabase.png)
 
-**Drag and Drop**
-- Drag and drop to open databases and sql scripts.
-- Create multiple windows.
+**拖拽**
+- 支持用拖拽操作来打开数据库和SQL脚本文件。
+- 创建多窗口。
 
 *Multiple windows*
 ![Multiple windows](macOS/MultipleWindows.png)
 
-**Handle Database File Name or Directory Changes**
-- For instance, this makes SQLiteFlow can work friendly with your SQLite databases in iOS simulator.
+**自动处理数据库文件名或者路径变化**
+- 比如，这使得SQLiteFlow对在iOS模拟器中的数据库很友好。
 
-**REGEXP operator**
-- Supports REGEXP operator for local databases when 'REGEXP operator' is enabled in Preferences.
+**REGEXP运算符**
+- 当您在偏好设置中开启‘REGEXP运算符’后，您就可以在数据编辑器或者SQL编辑器中使用REGEXP运算符了。
 
-## Support or Contact
-Have any questions or feature requests? Please feel free to <a href="https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues" target="_blank">create an issue</a>.
+## 联系我们
+有问题或者新需求? 请到这里来 <a href="https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues" target="_blank">创建一个新Issue</a>.
 
