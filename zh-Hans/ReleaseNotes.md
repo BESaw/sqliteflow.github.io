@@ -5,11 +5,11 @@ description: SQLiteFlow for Mac release notes.
 ---
 
 3.7.0 - 2019年6月28日
-• 支持简体中文、繁体中文。
-• 其它问题修复和稳定性更新。
+- 支持简体中文、繁体中文。
+- 其它问题修复和稳定性更新。
 
 3.6.2 - Jun 23, 2019
--  Fix an issue that if a database file has .sql file extension, it be recognized as a malformed sql script file instead of a database file.
+- Fix an issue that if a database file has .sql file extension, it be recognized as a malformed sql script file instead of a database file.
 
 3.6.1 - Jun 20, 2019
 - Supports save blob data to a file.
