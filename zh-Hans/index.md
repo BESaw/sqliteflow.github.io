@@ -14,7 +14,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 版本 3.6.2 | 2019-06-23 | <a href="/ReleaseNotes" target="_blank">更新说明</a>
 <br/><br/>[![Download](macOS/DownloadOnTheMacAppStore.svg)](macappstores://itunes.apple.com/app/id1378587993)
 
-## Features
+## 功能
 
 **SQL编辑器**
 

@@ -1,122 +1,120 @@
 ---
 layout: default
 title: SQLiteFlow
-description: SQLite editor for iOS
+description: iOS SQLite編輯器
 ---
 
-## Introduction
-SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reliable to use.
+## SQLiteFlow
+SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯器。
 
-## Platform
+##  支援平臺
 [macOS 10.12+](/) / iOS 11.0+
 
-## Download
-Version 3.6.0 | Jun 20, 2019 | <a href="iOS/ReleaseNotes" target="_blank">Release Notes</a>
+## 下載
+版本 3.6.0 | Jun 20, 2019 | <a href="/iOS/ReleaseNotes" target="_blank">更新說明</a>
 <br/><br/>[![Download](iOS/DownloadOnTheAppStore.svg)](https://itunes.apple.com/app/id1406266008)
 
-## Features
+## 功能
 
-**Database List**
-- Manage databases. Supportes add, remove, duplicate, rename databases.
-- Supports import database from iCould Drive by the file picker.
-- Supports import/export database through Drag and Drop gestures.
-- Supports create new datatbase.
+**資料庫列表**
+- 管理資料庫。支援增加、刪除、複製和重新命名資料庫。
+- 支援從iCould Drive中匯入資料庫。
+- 支援用拖拽手勢來匯入或者匯出資料庫。
+- 支援新建資料庫。
 
-*Database List*
+*資料庫列表*
 <br/>
 <img src="iOS/DatabaseList.png" width="450">
 <img src="iOS/DatabaseGuide.png" width="450">
 
-**Table List**
+**表列表**
 
-- Supports display each table's name and records count.
+- 支援顯示錶名和記錄數。
 
-*Table List*
+*表列表*
 <br/>
 <img src="iOS/TableList.png" width="450">
 
-**Query Editor**
+**SQL編輯器**
 
-- Multi-query execution.
-- Syntax highlighting.
-- SQL auto-completion.
-- Format query.
+- 支援多SQL執行。
+- 自定義語法高亮。
+- SQL程式碼自動補全。
+- 格式化查詢。
 
-*Query Editor - Multi-query Execution*
+*SQL編輯器 - 多SQL執行*
 <br/>
 <img src="iOS/QueryEditor.png" width="450">
 <img src="iOS/QueryResult.png" width="450">
 
-**Data Editor**
+**資料編輯器**
 
-- View, edit or add table data.
-- View table data with a convenient data filter.
-- Sort records by tapping on column title.
-- Edit blob as hex, show blob as image if possible.
+- 檢視，編輯，新增和刪除資料。
+- 資料過濾器。
+- 點選標題行排序
+- 以十六進位制編輯BLOB資料，如果可能，支援將其顯示為圖片。
 
-*Data Editor*
+*資料編輯器*
 <br/>
 <img src="iOS/DataView.png" width="450">
 
-*Data Filter*
+*資料過濾器*
 <br/>
 <img src="iOS/Filter.png" width="450">
 
-**Alter Table**
+**修改表結構**
 
-- View, edit or add table fields, indexes, foreign keys, checks.
-- View triggers.
-- View DDL.
+- 檢視，編輯和新增表字段，索引，外來鍵，唯一約束和檢查約束。
+- 檢視觸發器。
+- 查看錶定義。
 
-*Alter Table*
+*修改表結構*
 <br/>
 <img src="iOS/AlterTable.png" width="450">
 <img src="iOS/AlterField.png" width="450">
 
-**Connect**
+**連線**
 
-- Allow SQLiteFlow on Mac remote connect SQLite database in iPhone or iPad.
+- 支援SQLiteFlow(macOS)遠端連線到在本應用中的資料庫。
 
-*Connect*
+*連線*
 <br/>
 <img src="iOS/RemoteConnect.png" width="450">
 
-**Database Statistics**
+**資料庫統計**
 
-- Supports show records count of each table.
-- Supports show total size of each table
-- Supports show size of each table's content.
-- Supports show size of each table's indexes.
+- 顯示錶數和表中的記錄數。
+- 顯示每個表的佔用空間，及每個表中資料佔用的空間和和索引佔用的空間。
 
-*Database Statistics*
+*資料庫統計*
 <br/>
 <img src="iOS/Statistics.png" width="450">
 <img src="iOS/StatisticsDetail.png" width="450">
 
-**Database Diff**
+**資料庫比較**
 
-- Supports generate SQL text that can let you transform a database into another.
-- Supports show a summary of the differences between two databases.
+- 支援生成使一個數據庫轉為另一個數據庫SQL語句。
+- 支援只顯示兩個資料庫之間的不同的摘要資訊。
 
-*Database Diff*
+*資料庫比較*
 <br/>
 <img src="iOS/DatabaseDiff.png" width="450">
 <br/>
 <img src="iOS/DatabaseDiffOutput.png" width="450">
 
-**Import**
+**匯入**
 
-- Supports import CSV data.
+- 支援匯入CSV資料。
 
-*Import CSV data*
+*匯入CSV資料。*
 <br/>
 <img src="iOS/ImportCSV.png" width="450">
 
-**Export**
+**匯出**
 
-- Supports export table/view data and query result to CSV format.
+- 支援匯出表資料、檢視資料和查詢結果到CSV。
 
-## Support or Contact
+## 聯絡我們
 
-Have any questions or feature requests? Please feel free to <a href="https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues" target="_blank">create an issue</a>.
+有問題或者新需求? 請到這裡來<a href="https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues" target="_blank">建立一個新Issue</a>。
 
