@@ -108,7 +108,7 @@ Version 3.6.0 | Jun 20, 2019 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 - Supports export table/view data and query result to CSV format.
 
 **Languages**
-- English(/) \| [简体中文](/zh-Hans/iOS) \| [繁體中文](/zh-Hant/iOS)
+- English \| [简体中文](/zh-Hans/iOS) \| [繁體中文](/zh-Hant/iOS)
 
 ## Support or Contact
 Have any questions or feature requests? Please feel free to <a href="https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues" target="_blank">create an issue</a>.
