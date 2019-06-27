@@ -82,7 +82,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 **远程连接**
 - 支持远程连接在SQLiteFlow(iOS)中的数据库。
 
-*Remote Connect*
+*远程连接*
 ![Open Remote Database](macOS/RemoteConnect.png)
 
 **附加数据库**
@@ -95,7 +95,7 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 - 支持用拖拽操作来打开数据库和SQL脚本文件。
 - 创建多窗口。
 
-*Multiple windows*
+*多窗口s*
 ![Multiple windows](macOS/MultipleWindows.png)
 
 **自动处理数据库文件名或者路径变化**
