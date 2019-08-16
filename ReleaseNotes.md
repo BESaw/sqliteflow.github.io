@@ -4,6 +4,17 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+3.8.0 - Aug 16, 2019
+- Inside Explorer. Show inside data structure of SQLite database file, journal file, WAL file or WAL-Index file.
+- Now when editing data in Data Editor, you can tap Tab key to switch column.
+- Now when editing data in Data Editor, you can tap ESC key can undo changes in the editing field.
+- Now when editing data in Data Editor, you can tap Enter key to finish editing data, then tap Enter key again can trigger saving the edited data to database.
+- Add an extra column at the left edge of Data Editor for helping you select rows easily.
+- Copy data as CSV in Data Editor and Query Result now will respect column order shows in UI.
+- Add 'Export' button in Data Editor. So you can choose 'Selected Rows', 'Displaying Rows' or 'Whole Table' with/without 'Include Header' to export data from a table/view to a CSV file.
+- Add 'Export' button in Query Result. So you can choose 'Selected Rows' or 'Displaying Rows' with/without 'Include Header' to export data from query result or query message to a CSV file.
+- Refresh database in Database List now can trigger opened tabs be refreshed too.
+
 3.7.0 - Jun 23, 2019
 - Support for Chinese (Simplified), Chinese (Traditional).
 - Additional bug fixes and stability improvements.
