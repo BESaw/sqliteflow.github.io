@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+3.7.0 - 2019年7月2日
+- 支援簡體中文、繁體中文。
+- 其它問題修復和穩定性更新。
+
 3.6.0 - Jun 20, 2019
 - Hex Editor now supports save blob data to a file.
 - Hex Editor now supports drag and drop to import data from another app like Files.
