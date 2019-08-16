@@ -98,14 +98,14 @@ Version 3.8.0 | Aug 16, 2019 | <a href="ReleaseNotes" target="_blank">Release No
 *Multiple windows*
 ![Multiple windows](macOS/MultipleWindows.png)
 
-**Handle Database File Name or Directory Changes**
-- For instance, this makes SQLiteFlow can work friendly with your SQLite databases in iOS simulator.
-
 **Inside Explorer**
 - Show inside data structure of SQLite database file, journal file, WAL file or WAL-Index file.
 
 *Inside Explorer*
 ![Inside Explorer](macOS/InsideExplorer.png)
+
+**Handle Database File Name or Directory Changes**
+- For instance, this makes SQLiteFlow can work friendly with your SQLite databases in iOS simulator.
 
 **REGEXP operator**
 - Supports REGEXP operator for local databases when 'REGEXP operator' is enabled in Preferences.
