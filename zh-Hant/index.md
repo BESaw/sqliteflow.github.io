@@ -98,6 +98,12 @@ macOS 10.12+ / [iOS 11.0+](iOS)
 *多視窗*
 ![Multiple windows](macOS/MultipleWindows.png)
 
+**內部檢視器**
+- 檢視SQLite資料庫檔案，日誌檔案，WAL檔案或者WAL-索引檔案的內部結構。
+
+*內部檢視器*
+![Inside Explorer](macOS/InsideExplorer.png)
+
 **自動處理資料庫檔名或者路徑變化**
 - 比如，這使得SQLiteFlow對在iOS模擬器中的資料庫很友好。
 
