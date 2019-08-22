@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新说明。
 ---
 
+3.8.1 - 2019年8月22日
+- 在十六进制编辑器中将”设置为NULL“改为”设置为NULL并应用“。
+- 语法高亮与格式化查询支持upsert分句和window function以兼容未来版本的macOS。
+- 其它问题修复与稳定性改善。
+
 3.8.0 - 2019年8月16日
 - 内部查看器，查看SQLite数据库文件，日志文件，WAL文件或者WAL-索引文件的内部结构。
 - 现在数据编辑器编辑数据时，您可以使用Tab键来切换列。
