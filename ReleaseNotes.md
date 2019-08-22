@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+3.8.1 - Aug 22, 2019
+- Change 'Set NULL' to 'Set NULL & Apply' in Hex Editor.
+- Syntax Highlighting & Format Query now supports UPSERT clause and window function for compatible with the future version of macOS.
+- Additional bug fixes and stability improvements.
+
 3.8.0 - Aug 16, 2019
 - Inside Explorer. Show inside data structure of SQLite database file, journal file, WAL file or WAL-Index file.
 - Now when editing data in Data Editor, you can tap Tab key to switch column.
