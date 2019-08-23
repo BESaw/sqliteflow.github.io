@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+3.8.0 - 2019年8月23日
+- 语法高亮与格式化查询支持upsert分句和window function以兼容未来版本的iOS。
+- 修复了在某些场景下使用中文输入法输入异常的问题。
+- 其它问题修复与稳定性改善。
+
 3.7.0 - 2019年7月2日
 - 支持简体中文、繁体中文。
 - 其它问题修复和稳定性更新。
