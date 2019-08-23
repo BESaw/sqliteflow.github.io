@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+3.8.0 - Aug 23, 2019
+- Syntax Highlighting & Format Query need to support UPSERT clause and window function for compatible with the future version of iOS.
+- Fix an inputing issue when use Pinyin keyboard.
+- Additional bug fixes and stability improvements.
+
 3.7.0 - Jul 2, 2019
 - Support for Chinese (Simplified), Chinese (Traditional).
 - Additional bug fixes and stability improvements.
