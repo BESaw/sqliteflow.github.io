@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+3.9.0 - Sep 20, 2019
+- Supports dark mode for iOS 13.
+- Remove the global editing text field in Data Editor, so now you can edit data directly in the data field cell.
+
 3.8.0 - Aug 23, 2019
 - Syntax Highlighting & Format Query need to support UPSERT clause and window function for compatible with the future version of iOS.
 - Fix an inputing issue when use Pinyin keyboard.
