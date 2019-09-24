@@ -18,7 +18,7 @@ Version 3.9.0 | Sep 20, 2019 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 
 **Database List**
 - Manage databases. Supportes add, remove, duplicate, rename databases.
-- Supports import database from iCould Drive by the file picker.
+- Supports import database from iCloud Drive by the file picker.
 - Supports import/export database through Drag and Drop gestures.
 
 *Database List*
