@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+3.9.1 - 2019年9月26日
+- 为iPadOS 13支持多窗口。
+
 3.9.0 - 2019年9月20日
 - 在iOS 13中支持深色模式。
 - 移除数据编辑器中的全局编辑文本框，所以您现在可以直接在数据单元格中编辑数据了。
