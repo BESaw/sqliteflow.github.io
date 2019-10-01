@@ -4,6 +4,12 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+3.9.3 - Sep 30, 2019
+- Fix an issue that cause unwanted quotes translation after formatting a query in Query Editor.
+
+3.9.2 - Sep 28, 2019
+- Fix an issue that could lead the share sheet in Database List show empty.
+
 3.9.1 - Sep 26, 2019
 - Supports multiple windows for iPadOS 13.
 
