@@ -104,6 +104,12 @@ SQLiteFlow是为Mac和iOS平台开发的直观，稳定和易用的SQLite编辑�
 **导出**
 - 支持导出表数据、视图数据和查询结果到CSV。
 
+**多窗口**
+- 为iPadOS 13支持多窗口。
+
+**深色模式**
+- 在iOS 13中支持深色模式。
+
 **语言**
 - [English](/) \| 简体中文 (Chinese, Simplified) \| [繁體中文 (Chinese, Traditional)](/zh-Hant/iOS)
 
