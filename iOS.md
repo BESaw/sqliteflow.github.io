@@ -106,6 +106,12 @@ Version 3.9.3 | Sep 30, 2019 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 **Export**
 - Supports export table/view data and query result to CSV format.
 
+**Multiple Windows**
+- Supports multiple windows for iPadOS 13.
+
+**Dark Mode**
+- Supports dark mode for iOS 13.
+
 **Languages**
 - English \| [简体中文 (Chinese, Simplified)](/zh-Hans/iOS) \| [繁體中文 (Chinese, Traditional)](/zh-Hant/iOS)
 
