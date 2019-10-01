@@ -4,6 +4,12 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+3.9.3 - 2019年9月30日
+- 修復了在查詢編輯器中格式化查詢時可能會導致引號轉化為非ASCII編碼引號的問題。
+
+3.9.2 - 2019年9月28日
+- 修復了資料庫列表中分享選單顯示為空的問題。
+
 3.9.1 - 2019年9月26日
 - 為iPadOS 13支援多視窗。
 
