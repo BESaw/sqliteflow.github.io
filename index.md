@@ -99,7 +99,7 @@ Version 3.8.1 | Aug 22, 2019 | <a href="ReleaseNotes" target="_blank">Release No
 ![Multiple windows](macOS/MultipleWindows.png)
 
 **Inside Explorer**
-- Show inside data structure of SQLite database file, journal file, WAL file or WAL-Index file.
+- Show inside data structure of SQLite database file, journal file, WAL file and WAL-Index file.
 
 *Inside Explorer*
 ![Inside Explorer](macOS/InsideExplorer.png)
