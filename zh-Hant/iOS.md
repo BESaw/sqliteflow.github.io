@@ -11,15 +11,17 @@ SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯�
 [macOS 10.12+](./) / iOS 12.0+
 
 ## 下載
-版本 3.9.3 | 2019-09-30 | <a href="/zh-Hant/iOS/ReleaseNotes" target="_blank">更新說明</a>
+版本 4.0.0 | 2020-01-01 | <a href="/zh-Hant/iOS/ReleaseNotes" target="_blank">更新說明</a>
 <br/><br/>[![Download](iOS/DownloadOnTheAppStore.svg)](https://itunes.apple.com/app/id1406266008)
 
 ## 功能
 
-**資料庫列表**
-- 管理資料庫。支援增加、刪除、複製和重新命名資料庫。
+**瀏覽**
+- 管理檔案。支援增加、刪除、複製和重新命名資料夾，SQLite資料庫，SQL檔案，CSV檔案等。
 - 支援從iCloud Drive中匯入資料庫。
-- 支援用拖拽手勢來匯入或者匯出資料庫。
+- 支援開啟外部SQL檔案，CSV檔案，過濾檔案。
+- 支援開啟外部資料夾。需要iOS 13.0+或者iPasOS 13.0+支援。
+- 支援顯示最近使用檔案。
 
 *資料庫列表*
 <br/>
