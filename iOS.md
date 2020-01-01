@@ -17,9 +17,11 @@ Version 3.9.3 | Sep 30, 2019 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 ## Features
 
 **Database List**
-- Manage databases. Supportes add, remove, duplicate, rename databases.
+- Manage files. Supports add, remove, duplicate, rename folders, SQLite databases, SQL files, CSV files, etc.
 - Supports import database from iCloud Drive by the file picker.
-- Supports import/export database through Drag and Drop gestures.
+- Supports open external SQL files, CSV files and Filter files in place.
+- Supports open external folders in place. Requires iOS 13.0 or iPadOS 13.0.
+- Supports show recents files.
 
 *Database List*
 <br/>
