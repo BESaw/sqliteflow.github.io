@@ -4,6 +4,26 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.0.0 - Jan 1, 2020
+- Database List now rename to Browse. 
+- Supports open/create local folders, SQLite databases, SQL files, CSV files in Browse.
+- Supports open Filter files in Browse.
+- Supports open external SQL files, CSV files and Filter files in Browse.
+- Supports open external folders in Browse. Requires iOS 13.0 or iPadOS 13.0.
+- Supports show recents files.
+- Supports show blob data as hex in Query Result.
+- Supports long press to show context menu preview for a record in Data Editor and Query Results. Requires iOS 13.0 or iPadOS 13.0.
+- Add the ability to enable foreign key constraints in Data Editor.
+- Add 'Done' button at the top of screen when editing in Data Editor to trigger saving data.
+- Supports copy a row in Data Editor and Query Result.
+- Now, filter in Data Editor is file based. 
+- Supports tap filter button to open or create a filter file in Data Editor.
+- After opened a filter file, users can edit and apply a filter to Data Editor.
+- After applied a filter in Data Editor, tap filter button, users can choose 'Edit Filter', 'Remove Filter' or 'Choose Another Filter'.
+- Fix an issue that may cause unreadable code imported to table when import CSV data from a file.
+- Fix an issue that cause can't copy data record in Query Result.
+- Additional bug fixes and stability improvements.
+
 3.9.3 - Sep 30, 2019
 - Fix an issue that cause unwanted quotes translation after formatting a query in Query Editor.
 
