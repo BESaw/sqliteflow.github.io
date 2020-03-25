@@ -4,6 +4,12 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.1.0 - (Pending release)
+- Supports multiple cells/rows/columns selection in Data Editor & Query Results.
+- Supports run selected query in Query Editor.
+- Fix an issue that may cause mark external file to Recents list failed.
+- Additional bug fixes and stability improvements.
+
 4.0.0 - Jan 1, 2020
 - Database List now rename to Browse. 
 - Supports open/create local folders, SQLite databases, SQL files, CSV files in Browse.
