@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.1.1 - 2020年3月28日
+- 问题修复与稳定性改善。
+
 4.1.0 - 2020年3月26日
 - 在“数据编辑器”和“查询结果”中支持单元格，行和列的多选。
 - 在“查询编辑器”中支持执行选中查询。
