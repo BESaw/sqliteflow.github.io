@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.1.1 - Mar 28, 2020
+- Bug fixes and stability improvements.
+
 4.1.0 - Mar 26, 2020
 - Supports multiple cells/rows/columns selection in Data Editor & Query Results.
 - Supports run selected query in Query Editor.
