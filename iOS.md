@@ -44,7 +44,6 @@ Version 4.2.0 | Apr 28, 2020 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 *Query Editor - Multi-query Execution*
 <br/>
 <img src="iOS/QueryEditor.png" width="450">
-<img src="iOS/QueryResult.png" width="450">
 
 **Data Editor**
 - View, edit or add table data.
