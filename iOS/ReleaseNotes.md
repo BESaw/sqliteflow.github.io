@@ -4,6 +4,13 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.2.0 - Apr 28, 2020
+- Alter Table now supports show the SQL that altering the table.
+- Improve the user experience of Alter Table.
+- Improve the inputing experience in Query Editor when a hardware keyboard connected to device. Requires iOS 13.4 or iPadOS 13.4.
+- Merge Query Editor and Query Result to same page.
+- Additional bug fixes and stability improvements.
+
 4.1.1 - Mar 28, 2020
 - Bug fixes and stability improvements.
 
