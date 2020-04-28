@@ -44,7 +44,6 @@ SQLiteFlow是为Mac和iOS平台开发的直观，稳定和易用的SQLite编辑�
 *SQL编辑器 - 多SQL执行*
 <br/>
 <img src="iOS/QueryEditor.png" width="450">
-<img src="iOS/QueryResult.png" width="450">
 
 **数据编辑器**
 - 查看，编辑，添加和删除数据。
