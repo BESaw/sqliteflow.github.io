@@ -4,6 +4,19 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+4.0.0 - Pending Release...
+- Database List, supports right click a table name to rename a table.
+- Format Query, allow user choose the prefer indent using Spaces or Tabs.
+- Format Query, allow user to set indent width. Now the default indent width is 4 to match the default Tab Width which is also 4. The default indent width is 3 in previous versions when the value is not customizable.
+- Format Query, allow user to set comma that split column definition style to leading or trailing.
+- Text Editing, allow user to set tab width. The default tab width is 4.
+- Text Editing, allow user to set the behavior of the Tab key to inserts tab character or inserts spaces.
+- The setting 'Enable Foreign Key Constraints' now move from Data Editor to Preference - General, so now this setting will affects to Data Editor, Query Editor and Import CSV.
+- Enhancement for Alter Table.
+- Import/Export CSV now supports use semicolon(;) or tab as delimiter to import/export data.
+- Import CSV, fix an issue that cause last row is not imported when the CSV text's last field on the last record is not populated.
+- Additional bug fixes and stability improvements.
+
 3.8.1 - Aug 22, 2019
 - Change 'Set NULL' to 'Set NULL & Apply' in Hex Editor.
 - Syntax Highlighting & Format Query now supports UPSERT clause and window function for compatible with the future version of macOS.
