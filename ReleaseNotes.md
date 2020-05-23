@@ -4,7 +4,7 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
-4.0.0 - May 23, 2020
+4.0.0 - May 22, 2020
 - Database List, supports right click a table name to rename a table.
 - Format Query, allow user choose the prefer indent using Spaces or Tabs.
 - Format Query, allow user to set indent width. Now the default indent width is 4 to match the default Tab Width which is also 4. The default indent width is 3 in previous versions when the value is not customizable.
