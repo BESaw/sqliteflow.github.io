@@ -42,7 +42,7 @@ Version 4.0.0 | May 23, 2020 | <a href="ReleaseNotes" target="_blank">Release No
 *Data Editor*
 ![](macOS/DataEditor.png)
 
-**Alter Table**
+**Table Schema**
 
 - View, edit or add table fields, indexes, foreign keys, checks.
 - View triggers.
