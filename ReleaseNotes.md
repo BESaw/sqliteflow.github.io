@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+4.0.1 - Pending Release
+- Fix an issue that cause the value of 'Enable Foreign Key Constraints' and 'Tab Key Behavior' not display correctly in Preference.
+
 4.0.0 - May 22, 2020
 - Database List, supports right click a table name to rename a table.
 - Format Query, allow user choose the prefer indent using Spaces or Tabs.
