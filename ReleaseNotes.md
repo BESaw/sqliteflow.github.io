@@ -5,6 +5,7 @@ description: SQLiteFlow for Mac release notes.
 ---
 
 4.0.1 - Pending Release
+- Add an option 'Allow select all file types' to Open Database panel to allow user opening database files with arbitrary extensions from the Open Database panel.
 - Fix an issue that cause the value of 'Enable Foreign Key Constraints' and 'Tab Key Behavior' not display correctly in Preference.
 
 4.0.0 - May 22, 2020
