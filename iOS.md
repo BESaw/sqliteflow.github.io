@@ -23,6 +23,7 @@ Version 4.2.0 | Apr 28, 2020 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 - Supports open external folders in place. Requires iOS 13.0 or iPadOS 13.0.
 - Supports show recents files.
 
+*Browse*
 <br/>
 <img src="iOS/Browse.png" width="450">
 <img src="iOS/DatabaseGuide.png" width="450">
