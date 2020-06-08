@@ -23,7 +23,7 @@ SQLiteFlow是为Mac和iOS平台开发的直观，稳定和易用的SQLite编辑�
 - 支持打开外部文件夹。需要iOS 13.0+或者iPadOS 13.0+支持。
 - 支持显示最近使用文件。
 
-*数据库列表*
+*浏览*
 <br/>
 <img src="iOS/Browse.png" width="320">
 
