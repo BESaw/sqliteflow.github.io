@@ -4,6 +4,15 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.3.0 - Pending Release
+- Format Query, allow user choose the prefer indent using Spaces or Tabs.
+- Format Query, allow user to set indent width. Now the default indent width is 4 to match the default Tab Width which is also 4. The default indent width is 3 in previous versions when the value is not customizable.
+- Format Query, allow user to set comma that split column definition style to leading or trailing.
+- Text Editing, allow user to set tab width. The default tab width is 4.
+- Text Editing, allow user to set the behavior of the Tab key to inserts tab character or inserts spaces.
+- The setting ‘Enable Foreign Key Constraints’ now move from Data Editor to Settings - General, so now this setting will affects to Data Editor, Query Editor and Import CSV.
+- Import CSV now supports use semicolon(;) as delimiter to import data.
+
 4.2.0 - Apr 28, 2020
 - Alter Table now supports show the SQL that altering the table.
 - Improve the user experience of Alter Table.
