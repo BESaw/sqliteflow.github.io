@@ -66,7 +66,6 @@ Version 4.2.0 | Apr 28, 2020 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 *Alter Table*
 <br/>
 <img src="iOS/AlterTable.png" width="320">
-<img src="iOS/AlterField.png" width="320">
 
 **Connect**
 - Allow SQLiteFlow on Mac remote connect SQLite database in iPhone or iPad.
@@ -84,7 +83,6 @@ Version 4.2.0 | Apr 28, 2020 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 *Database Statistics*
 <br/>
 <img src="iOS/Statistics.png" width="320">
-<img src="iOS/StatisticsDetail.png" width="320">
 
 **Database Diff**
 - Supports generate SQL text that can let you transform a database into another.
@@ -93,8 +91,6 @@ Version 4.2.0 | Apr 28, 2020 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 *Database Diff*
 <br/>
 <img src="iOS/DatabaseDiff.png" width="320">
-<br/>
-<img src="iOS/DatabaseDiffOutput.png" width="320">
 
 **Import**
 - Supports import CSV data.
