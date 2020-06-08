@@ -32,7 +32,7 @@ Version 4.2.0 | Apr 28, 2020 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 
 *Table List*
 <br/>
-<img src="iOS/TableList.png" width="450">
+<img src="iOS/TableList.png" width="320">
 
 **Query Editor**
 - Multi-query execution.
@@ -42,7 +42,7 @@ Version 4.2.0 | Apr 28, 2020 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 
 *Query Editor - Multi-query Execution*
 <br/>
-<img src="iOS/QueryEditor.png" width="450">
+<img src="iOS/QueryEditor.png" width="320">
 
 **Data Editor**
 - View, edit or add table data.
@@ -52,11 +52,11 @@ Version 4.2.0 | Apr 28, 2020 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 
 *Data Editor*
 <br/>
-<img src="iOS/DataView.png" width="450">
+<img src="iOS/DataView.png" width="320">
 
 *Data Filter*
 <br/>
-<img src="iOS/Filter.png" width="450">
+<img src="iOS/Filter.png" width="320">
 
 **Alter Table**
 - View, edit or add table fields, indexes, foreign keys, checks.
@@ -65,15 +65,15 @@ Version 4.2.0 | Apr 28, 2020 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 
 *Alter Table*
 <br/>
-<img src="iOS/AlterTable.png" width="450">
-<img src="iOS/AlterField.png" width="450">
+<img src="iOS/AlterTable.png" width="320">
+<img src="iOS/AlterField.png" width="320">
 
 **Connect**
 - Allow SQLiteFlow on Mac remote connect SQLite database in iPhone or iPad.
 
 *Connect*
 <br/>
-<img src="iOS/RemoteConnect.png" width="450">
+<img src="iOS/RemoteConnect.png" width="320">
 
 **Database Statistics**
 - Supports show records count of each table.
@@ -83,8 +83,8 @@ Version 4.2.0 | Apr 28, 2020 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 
 *Database Statistics*
 <br/>
-<img src="iOS/Statistics.png" width="450">
-<img src="iOS/StatisticsDetail.png" width="450">
+<img src="iOS/Statistics.png" width="320">
+<img src="iOS/StatisticsDetail.png" width="320">
 
 **Database Diff**
 - Supports generate SQL text that can let you transform a database into another.
@@ -92,16 +92,16 @@ Version 4.2.0 | Apr 28, 2020 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 
 *Database Diff*
 <br/>
-<img src="iOS/DatabaseDiff.png" width="450">
+<img src="iOS/DatabaseDiff.png" width="320">
 <br/>
-<img src="iOS/DatabaseDiffOutput.png" width="450">
+<img src="iOS/DatabaseDiffOutput.png" width="320">
 
 **Import**
 - Supports import CSV data.
 
 *Import CSV data*
 <br/>
-<img src="iOS/ImportCSV.png" width="450">
+<img src="iOS/ImportCSV.png" width="320">
 
 **Export**
 - Supports export table/view data and query result to CSV format.
