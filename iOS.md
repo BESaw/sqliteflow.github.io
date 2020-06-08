@@ -68,7 +68,7 @@ Version 4.2.0 | Apr 28, 2020 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 <img src="iOS/AlterTable.png" width="320">
 
 **Connect**
-- Allow SQLiteFlow on Mac remote connect SQLite database in iPhone or iPad.
+- Supports let SQLiteFlow(macOS) connect databases in this app.
 
 *Connect*
 <br/>
