@@ -25,7 +25,7 @@ SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯�
 
 *瀏覽*
 <br/>
-<img src="iOS/DatabaseList.png" width="320">
+<img src="iOS/Browse.png" width="320">
 
 **表列表**
 - 支援顯示錶名和記錄數。
