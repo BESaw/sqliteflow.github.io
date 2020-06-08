@@ -25,7 +25,7 @@ Version 4.2.0 | Apr 28, 2020 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 
 *Browse*
 <br/>
-<img src="iOS/DatabaseList.png" width="450">
+<img src="iOS/Browse.png" width="450">
 <img src="iOS/DatabaseGuide.png" width="450">
 
 **Table List**
