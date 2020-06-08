@@ -70,7 +70,6 @@ Version 4.2.0 | Apr 28, 2020 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 **Connect**
 - Supports let SQLiteFlow(macOS) connect databases in this app.
 
-*Connect*
 <br/>
 <img src="iOS/RemoteConnect.png" width="320">
 
