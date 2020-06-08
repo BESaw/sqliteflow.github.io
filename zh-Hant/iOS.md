@@ -23,17 +23,16 @@ SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯�
 - 支援開啟外部資料夾。需要iOS 13.0+或者iPadOS 13.0+支援。
 - 支援顯示最近使用檔案。
 
-*資料庫列表*
+*瀏覽*
 <br/>
-<img src="iOS/DatabaseList.png" width="450">
-<img src="iOS/DatabaseGuide.png" width="450">
+<img src="iOS/DatabaseList.png" width="320">
 
 **表列表**
 - 支援顯示錶名和記錄數。
 
 *表列表*
 <br/>
-<img src="iOS/TableList.png" width="450">
+<img src="iOS/TableList.png" width="320">
 
 **SQL編輯器**
 - 支援多SQL執行。
@@ -43,7 +42,7 @@ SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯�
 
 *SQL編輯器 - 多SQL執行*
 <br/>
-<img src="iOS/QueryEditor.png" width="450">
+<img src="iOS/QueryEditor.png" width="320">
 
 **資料編輯器**
 - 檢視，編輯，新增和刪除資料。
@@ -53,11 +52,11 @@ SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯�
 
 *資料編輯器*
 <br/>
-<img src="iOS/DataView.png" width="450">
+<img src="iOS/DataView.png" width="320">
 
 *資料過濾器*
 <br/>
-<img src="iOS/Filter.png" width="450">
+<img src="iOS/Filter.png" width="320">
 
 **修改表結構**
 - 檢視，編輯和新增表字段，索引，外來鍵，唯一約束和檢查約束。
@@ -66,15 +65,14 @@ SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯�
 
 *修改表結構*
 <br/>
-<img src="iOS/AlterTable.png" width="450">
-<img src="iOS/AlterField.png" width="450">
+<img src="iOS/AlterTable.png" width="320">
 
 **連線**
 - 支援SQLiteFlow(macOS)遠端連線到在本應用中的資料庫。
 
 *連線*
 <br/>
-<img src="iOS/RemoteConnect.png" width="450">
+<img src="iOS/RemoteConnect.png" width="320">
 
 **資料庫統計**
 - 顯示錶數和表中的記錄數。
@@ -82,8 +80,7 @@ SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯�
 
 *資料庫統計*
 <br/>
-<img src="iOS/Statistics.png" width="450">
-<img src="iOS/StatisticsDetail.png" width="450">
+<img src="iOS/Statistics.png" width="320">
 
 **資料庫比較**
 - 支援生成使一個數據庫轉為另一個數據庫SQL語句。
@@ -91,16 +88,14 @@ SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯�
 
 *資料庫比較*
 <br/>
-<img src="iOS/DatabaseDiff.png" width="450">
-<br/>
-<img src="iOS/DatabaseDiffOutput.png" width="450">
+<img src="iOS/DatabaseDiff.png" width="320">
 
 **匯入**
 - 支援匯入CSV資料。
 
 *匯入CSV資料。*
 <br/>
-<img src="iOS/ImportCSV.png" width="450">
+<img src="iOS/ImportCSV.png" width="320">
 
 **匯出**
 - 支援匯出表資料、檢視資料和查詢結果到CSV。
