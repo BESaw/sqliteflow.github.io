@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.3.1 - Jun 9, 2020
+- Bug fixes and stability improvements.
+
 4.3.0 - Jun 8, 2020
 - Format Query, allow user choose the prefer indent using Spaces or Tabs.
 - Format Query, allow user to set indent width. Now the default indent width is 4 to match the default Tab Width which is also 4. The default indent width is 3 in previous versions when the value is not customizable.
