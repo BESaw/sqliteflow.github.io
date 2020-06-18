@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+4.1.0 - Jun 19, 2020
+- Allow user to choose the macOS embedded SQLite library or the latest SQLite library (currently SQLite 3.32.2) to work with.
+- Additional bug fixes and stability improvements.
+
 4.0.1 - May 25, 2020
 - Add an option 'Allow select all file types' to Open Database panel to allow user opening database files with arbitrary extensions from the Open Database panel.
 - Fix an issue that cause the value of 'Enable Foreign Key Constraints' and 'Tab Key Behavior' not display correctly in Preference.
