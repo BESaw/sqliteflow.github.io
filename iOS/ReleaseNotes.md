@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.3.2 - Jun 19, 2020
+- Bug fixes and stability improvements.
+
 4.3.1 - Jun 9, 2020
 - Bug fixes and stability improvements.
 
