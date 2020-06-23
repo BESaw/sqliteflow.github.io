@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新说明。
 ---
 
+4.1.1 - 2020年6月22日
+- 支持SQLite 3.32.3 (2020-06-18)。
+- 其它问题修复与稳定性改善。
+
 4.1.0 - 2020年6月19日
 - 支持选择使用macOS内嵌SQLite库，或者选择使用最新SQLite库（目前是SQLite 3.32.2）来工作。
 - 其它问题修复与稳定性改善。
