@@ -4,6 +4,12 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.3.3 - 2020年7月3日
+• 表列表中支援重命名錶。
+• 新建資料庫時支援選擇日誌模式（WAL或者DELETE）。
+• 修改表結構，支援使用拖拽來重新排序表列。
+• 修改表結構，支援設定表的WITHOUT ROWID型別。
+
 4.3.2 - 2020年6月19日
 - 問題修復和穩定性更新。
 
