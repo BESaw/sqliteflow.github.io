@@ -4,6 +4,14 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+4.3.0 - Jul 3, 2020
+- Supports pick a journal mode when creating a database.
+- Table Schema, supports reorder columns using drag and drop. 
+- Table Schema, add support for setting a table to WITHOUT ROWID table.
+- Supports export data through table/view's context menu in Database List.
+- Add more Touch Bar supports.
+- Additional bug fixes and stability improvements.
+
 4.2.0 - Jun 28, 2020
 - Add some basic Touch Bar supports.
 
