@@ -5,10 +5,10 @@ description: SQLiteFlow for iOS release notes.
 ---
 
 4.3.3 - Jul 3, 2020
-• Supports rename table in Table List.
-• Supports pick a journal mode (WAL or DELETE) when creating a database.
-• Table Schema, supports reorder columns using drag and drop. 
-• Table Schema, add support for setting a table to WITHOUT ROWID table.
+- Supports rename table in Table List.
+- Supports pick a journal mode (WAL or DELETE) when creating a database.
+- Table Schema, supports reorder columns using drag and drop. 
+- Table Schema, add support for setting a table to WITHOUT ROWID table.
 
 4.3.2 - Jun 19, 2020
 - Bug fixes and stability improvements.
