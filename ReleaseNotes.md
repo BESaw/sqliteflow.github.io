@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+4.3.1 - Jul 8, 2020
+- Filter in Data Editor now supports "!=" and "not contains" operator.
+
 4.3.0 - Jul 3, 2020
 - Supports pick a journal mode when creating a database.
 - Table Schema, supports reorder columns using drag and drop. 
