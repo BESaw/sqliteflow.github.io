@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.3.4 - 2020年7月8日
+- 為資料編輯器中的過濾器新增「!=」和「不包含」操作符支援。
+
 4.3.3 - 2020年7月3日
 - 表列表中支援重命名錶。
 - 新建資料庫時支援選擇日誌模式（WAL或者DELETE）。

@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.3.4 - Jul 8, 2020
+- Filter in Data Editor now supports "!=" and "not contains" operator.
+
 4.3.3 - Jul 3, 2020
 - Supports rename table in Table List.
 - Supports pick a journal mode (WAL or DELETE) when creating a database.
