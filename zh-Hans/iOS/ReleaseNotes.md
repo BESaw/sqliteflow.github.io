@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.3.5 - 2020年8月6日
+- 数据编辑器，支持用键盘方向键来选择单元格。需要iOS 13.4+或者iPadOS 13.4+支持。
+- 支持打开能够出现在“浏览”中的使用自定义拓展名的SQLite数据库。
+
 4.3.4 - 2020年7月8日
 - 为数据编辑器中的过滤器添加“!=“和“不包含”操作符支持。
 

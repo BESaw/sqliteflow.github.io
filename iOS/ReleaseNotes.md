@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.3.5 - Aug 6, 2020
+- Data Editor, supports keyboard arrow keys to move selection between cells. Requires iOS 13.4 or iPadOS 13.4.
+- Supports recognize SQLite databases with custom extensions if they can appear in Browse.
+
 4.3.4 - Jul 8, 2020
 - Filter in Data Editor now supports "!=" and "not contains" operator.
 
