@@ -11,7 +11,7 @@ SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reli
 macOS 10.13+ / [iOS 12.0+](iOS)
 
 ## Download
-Version 4.3.1 | Jul 8, 2020 | <a href="ReleaseNotes" target="_blank">Release Notes</a>
+Version 4.5.0 | Aug 28, 2020 | <a href="ReleaseNotes" target="_blank">Release Notes</a>
 <br/><br/>[![Download](macOS/DownloadOnTheMacAppStore.svg)](macappstores://itunes.apple.com/app/id1378587993)
 
 ## Features
@@ -62,14 +62,11 @@ Version 4.3.1 | Jul 8, 2020 | <a href="ReleaseNotes" target="_blank">Release Not
 ![Import - Import from CSV Text](macOS/ImportFromCSV.png)
 
 **Dark Mode**
-- Supports Dark Mode for macOS Mojave.
-
-*Dark Mode*
-![Dark Mode](macOS/DarkMode.png)
+- Supports Dark Mode for macOS 10.14+.
 
 **Database Statistics**
 - Display table counts and each table's record count.
-- Display total size of each table, size of each table's content and size of each table's indexes. Requires macOS 10.13.
+- Display total size of each table, size of each table's content and size of each table's indexes.
 
 *Database Statistics*
 ![Database Statistics](macOS/Statistics.png)
@@ -94,9 +91,6 @@ Version 4.3.1 | Jul 8, 2020 | <a href="ReleaseNotes" target="_blank">Release Not
 **Drag and Drop**
 - Drag and drop to open databases and sql scripts.
 - Create multiple windows.
-
-*Multiple windows*
-![Multiple windows](macOS/MultipleWindows.png)
 
 **Inside Explorer**
 - Show inside data structure of SQLite database file, journal file, WAL file and WAL-Index file.

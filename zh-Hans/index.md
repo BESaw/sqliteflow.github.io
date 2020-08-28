@@ -11,7 +11,7 @@ SQLiteFlow是为Mac和iOS平台开发的直观，稳定和易用的SQLite编辑�
 macOS 10.13+ / [iOS 12.0+](iOS)
 
 ## 下载
-版本 4.3.1 | 2020-07-08 | <a href="ReleaseNotes" target="_blank">更新说明</a>
+版本 4.5.0 | 2020-08-28 | <a href="ReleaseNotes" target="_blank">更新说明</a>
 <br/><br/>[![Download](macOS/DownloadOnTheMacAppStore.svg)](macappstores://itunes.apple.com/app/id1378587993)
 
 ## 功能
@@ -62,14 +62,11 @@ macOS 10.13+ / [iOS 12.0+](iOS)
 ![Import - Import from CSV Text](macOS/ImportFromCSV.png)
 
 **深色模式**
-- 支持macOS Mojave深色模式。
-
-*深色模式*
-![Dark Mode](macOS/DarkMode.png)
+- 在macOS 10.14+中支持深色模式。
 
 **数据库统计**
 - 显示表数和表中的记录数。
-- 显示每个表的占用空间，及每个表中数据占用的空间和和索引占用的空间。 (* 需要macOS 10.13+支持)
+- 显示每个表的占用空间，及每个表中数据占用的空间和和索引占用的空间。
 
 *数据库统计*
 ![Database Statistics](macOS/Statistics.png)
@@ -94,9 +91,6 @@ macOS 10.13+ / [iOS 12.0+](iOS)
 **拖拽**
 - 支持用拖拽操作来打开数据库和SQL脚本文件。
 - 创建多窗口。
-
-*多窗口*
-![Multiple windows](macOS/MultipleWindows.png)
 
 **内部查看器**
 - 查看SQLite数据库文件，日志文件，WAL文件或者WAL-索引文件的内部结构。

@@ -62,14 +62,11 @@ macOS 10.13+ / [iOS 12.0+](iOS)
 ![Import - Import from CSV Text](macOS/ImportFromCSV.png)
 
 **深色模式**
-- 支援macOS Mojave深色模式。
-
-*深色模式*
-![Dark Mode](macOS/DarkMode.png)
+- 在macOS 10.14+中支援深色模式。
 
 **資料庫統計**
 - 顯示錶數和表中的記錄數。
-- 顯示每個表的佔用空間，及每個表中資料佔用的空間和和索引佔用的空間。 (* 需要macOS 10.13+支援)
+- 顯示每個表的佔用空間，及每個表中資料佔用的空間和和索引佔用的空間。
 
 *資料庫統計*
 ![Database Statistics](macOS/Statistics.png)
@@ -94,9 +91,6 @@ macOS 10.13+ / [iOS 12.0+](iOS)
 **拖拽**
 - 支援用拖拽操作來開啟資料庫和SQL指令碼檔案。
 - 建立多視窗。
-
-*多視窗*
-![Multiple windows](macOS/MultipleWindows.png)
 
 **內部檢視器**
 - 檢視SQLite資料庫檔案，日誌檔案，WAL檔案或者WAL-索引檔案的內部結構。
