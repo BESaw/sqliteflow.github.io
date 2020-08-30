@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+4.5.1 - Aug 29, 2020
+- Bug fixes and stability improvements.
+
 4.5.0 - Aug 28, 2020
 - Tabbing behavior changes. Previously, close a window means hide the window, and all tabs in this window still remain opened. Now, close a window means close all tabs in this window and close the window.
 - Now SQLiteFlow use the system tab bar instead of the previous custom one to get the most out of system offered features.
