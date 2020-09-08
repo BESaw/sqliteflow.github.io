@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.3.6 - 2020年9月7日
+- 問題修復和穩定性更新。
+
 4.3.5 - 2020年8月6日
 - 資料編輯器，支援用鍵盤方向鍵來選擇單元格。需要iOS 13.4+或者iPadOS 13.4+支援。
 - 支援開啟能夠出現在「瀏覽」中的使用自定義拓展名的SQLite資料庫。

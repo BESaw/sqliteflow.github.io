@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.3.6 - Sep 7, 2020
+- Bug fixes and stability improvements.
+
 4.3.5 - Aug 6, 2020
 - Data Editor, supports keyboard arrow keys to move selection between cells. Requires iOS 13.4 or iPadOS 13.4.
 - Supports recognize SQLite databases with custom extensions if they can appear in Browse.
