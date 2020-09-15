@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新說明。
 ---
 
+4.6.1 - 2020年9月15日
+- 修復了一個在全屏模式中可能導致UI顯示不正常的問題。
+- 其它問題修復與穩定性改善。
+
 4.6.0 - 2020年9月8日
 - 支援匯出資料到JSON。
 - 支援匯出資料到Markdown。
