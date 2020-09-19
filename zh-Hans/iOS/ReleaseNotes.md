@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.6.0 - 2020年9月18日
+- 支持导出数据到JSON。
+- 支持导出数据到Markdown。
+- 此版本的SQLiteFlow现在需要iOS 13+支持。
+
 4.3.6 - 2020年9月7日
 - 问题修复和稳定性更新。
 
