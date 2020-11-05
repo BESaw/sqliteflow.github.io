@@ -3,6 +3,10 @@ layout: default
 title: SQLiteFlow
 description: Mac SQLiteFlow 更新说明。
 ---
+4.7.0 - 2020年11月4日
+- 极大的提高了数据编辑器和查询结果的性能，展示列数越多，效果越明显。
+- 此版本的SQLiteFlow需要macOS 10.14支持。
+- 其它问题修复与稳定性改善。
 
 4.6.1 - 2020年9月15日
 - 修复了一个在全屏模式中可能导致UI显示不正常的问题。

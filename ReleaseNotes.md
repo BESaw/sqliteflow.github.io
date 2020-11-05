@@ -3,6 +3,10 @@ layout: default
 title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
+4.7.0 - Nov 4, 2020
+- Significant performance improvement to Data Editor and Query Results when there are large numbers (like hundreds) of columns exist.
+- This version of SQLiteFlow requires macOS 10.14 or later.
+- Additional bug fixes and stability improvements.
 
 4.6.1 - Sep 15, 2020
 - Fix an issue that may cause UI glitch when in full screen mode.
