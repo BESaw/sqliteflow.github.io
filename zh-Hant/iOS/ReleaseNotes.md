@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.6.1 - 2020年11月23日
+- 匯入CSV，現在“CSV第一行為標題“的預設值為”是“，和匯出CSV功能一致。
+- 匯入CSV，支援匯入前清空表資料。
+- 新增捷徑支援。現在“執行查詢”和“匯入CSV“已經可以在捷徑應用中使用了。這個功能需要iOS 14.0+支援。
+
 4.6.0 - 2020年9月18日
 - 支援匯出資料到JSON。
 - 支援匯出資料到Markdown。

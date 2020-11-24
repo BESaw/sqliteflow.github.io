@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.6.1 - Nov 23, 2020
+- Import CSV, now the default value of the option "First Line in CSV is Header" is "on", to make it consistent with the Export CSV feature.
+- Import CSV, now supports truncate a table before importing.
+- Add Shortcuts support. Now "Run Query" and "Import CSV" are available in the Shortcuts app. This feature requires iOS 14.0 or later.
+
 4.6.0 - Sep 18, 2020
 - Supports export data as JSON.
 - Supports export data as Markdown.
