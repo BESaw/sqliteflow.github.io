@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.6.2 - 2020年11月30日
+- 问题修复和稳定性更新。
+
 4.6.1 - 2020年11月23日
 - 导入CSV，现在“CSV第一行为标题“的默认值为”是“，和导出CSV功能一致。
 - 导入CSV，支持导入前清空表数据。
