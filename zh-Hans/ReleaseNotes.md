@@ -3,6 +3,14 @@ layout: default
 title: SQLiteFlow
 description: Mac SQLiteFlow 更新说明。
 ---
+
+4.8.0 - 2020年12月11日
+- 增加Apple Silicon Mac支持。
+- 数据编辑器支持拷贝数据为insert/update语句。
+- 支持转储数据库到SQL文件。
+- 修复了一个在程序闪退后可能导致用户SQL文件被移动到程序临时查询会话文件夹的问题。
+- 其它问题修复与稳定性改善。
+
 4.7.0 - 2020年11月4日
 - 极大的提高了数据编辑器和查询结果的性能，展示列数越多，效果越明显。
 - 此版本的SQLiteFlow需要macOS 10.14支持。
