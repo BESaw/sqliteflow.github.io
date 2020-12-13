@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新說明。
 ---
 
+4.8.1 - 2020年12月13日
+- 在macOS 11中支援全高度側邊欄。
+- 其它問題修復與穩定性改善。
+
 4.8.0 - 2020年12月11日
 - 增加Apple Silicon Mac支援。
 - 資料編輯器支援拷貝資料為insert/update語句。

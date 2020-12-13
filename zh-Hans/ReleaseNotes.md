@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新说明。
 ---
 
+4.8.1 - 2020年12月13日
+- 在macOS 11中支持全高度边栏。
+- 其它问题修复与稳定性改善。
+
 4.8.0 - 2020年12月11日
 - 增加Apple Silicon Mac支持。
 - 数据编辑器支持拷贝数据为insert/update语句。
