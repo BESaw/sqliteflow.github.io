@@ -12,6 +12,7 @@ description: SQLiteFlow for Mac release notes.
 - Add supports for Apple Silicon Mac.
 - Data Editor, supports copy data as insert/update statement.
 - Supports dump database to a SQL file.
+- Supports SQLite version 3.34.0 (2020-12-01).
 - Fix an issue that may cause user SQL file move to app's temp query session folder after a crash happen.
 - Additional bug fixes and stability improvements.
 

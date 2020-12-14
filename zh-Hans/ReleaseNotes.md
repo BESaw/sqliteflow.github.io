@@ -12,6 +12,7 @@ description: Mac SQLiteFlow 更新说明。
 - 增加Apple Silicon Mac支持。
 - 数据编辑器支持拷贝数据为insert/update语句。
 - 支持转储数据库到SQL文件。
+- 支持SQLite version 3.34.0 (2020-12-01)。
 - 修复了一个在程序闪退后可能导致用户SQL文件被移动到程序临时查询会话文件夹的问题。
 - 其它问题修复与稳定性改善。
 
