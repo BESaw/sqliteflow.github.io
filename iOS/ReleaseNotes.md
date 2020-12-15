@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.8.0 - Dec 14, 2020
+- Data Editor, supports export data as insert/update statement.
+- Supports dump database to a SQL file.
+- Additional bug fixes and stability improvements.
+
 4.6.2 - Nov 30, 2020
 - Bug fixes and stability improvements.
 
