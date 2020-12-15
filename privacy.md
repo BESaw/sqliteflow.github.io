@@ -6,6 +6,6 @@ description: SQLiteFlow privacy policy.
 
 ## Privacy Policy
 
-SQLiteFlow doesn't collect your data, period.
+SQLiteFlow does not collect your data, period.
 
 [Home](./)
