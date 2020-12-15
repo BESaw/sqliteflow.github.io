@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.8.1 - 2020年12月15日
+- 問題修復與穩定性改善。
+
 4.8.0 - 2020年12月14日
 - 資料編輯器支援匯出資料為insert/update語句。
 - 支援轉儲資料庫到SQL檔案。
