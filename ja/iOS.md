@@ -108,7 +108,7 @@ SQLiteFlowは、直感的で安定した信頼性の高いMacとiOS用のSQLite�
 - iOS 13 のダークモードをサポートします。
 
 **言語**
-- [English](/) \| [简体中文 (Chinese, Simplified)](/zh-Hans/iOS) \| [繁體中文 (Chinese, Traditional)](/zh-Hant/iOS) \|[日本語 (Japanese)](/ja/iOS)
+- [English](/) \| [简体中文 (Chinese, Simplified)](/zh-Hans/iOS) \| [繁體中文 (Chinese, Traditional)](/zh-Hant/iOS) \|日本語 (Japanese)
 
 ## サポートまたはお問い合わせ
 ご質問や機能のリクエストをお持ちですか? <a href="https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues" target="_blank">問題を作成</a>して自由に感じてください。
