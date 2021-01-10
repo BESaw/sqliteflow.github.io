@@ -105,7 +105,7 @@ macOS 10.14+ / [iOS 13.0+](iOS)
 - 当您在偏好设置中开启‘REGEXP运算符’后，您就可以在数据编辑器或者SQL编辑器中使用REGEXP运算符了。
 
 **语言**
-- [English](/) \| 简体中文 (Chinese, Simplified) \| [繁體中文 (Chinese, Traditional)](/zh-Hant)
+- [English](/) \| 简体中文 (Chinese, Simplified) \| [繁體中文 (Chinese, Traditional)](/zh-Hant) \| [日本語 (Japanese)](/ja)
 
 ## 联系我们
 有问题或者新需求? 请到这里来<a href="https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues" target="_blank">创建一个新Issue</a>。

@@ -108,7 +108,7 @@ Version 4.8.1 | Dec 15, 2020 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 - Supports dark mode for iOS 13.
 
 **Languages**
-- English \| [简体中文 (Chinese, Simplified)](/zh-Hans/iOS) \| [繁體中文 (Chinese, Traditional)](/zh-Hant/iOS)
+- English \| [简体中文 (Chinese, Simplified)](/zh-Hans/iOS) \| [繁體中文 (Chinese, Traditional)](/zh-Hant/iOS) \| [日本語 (Japanese)](/ja/iOS)
 
 ## Support or Contact
 Have any questions or feature requests? Please feel free to <a href="https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues" target="_blank">create an issue</a>.
