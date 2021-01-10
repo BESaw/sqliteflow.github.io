@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+4.8.2 - Jan 10, 2021
+- Support for Japanese.
+
 4.8.1 - Dec 13, 2020
 - Supports full-height sidebar in macOS 11.
 - Additional bug fixes and stability improvements.

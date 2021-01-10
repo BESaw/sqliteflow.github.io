@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.8.2 - Jan 10, 2021
+- Support for Japanese.
+
 4.8.1 - Dec 15, 2020
 - Bug fixes and stability improvements.
 
