@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+4.8.4 - Mar 14, 2021
+- Supports SQLite version 3.35.0 (2021-03-12).
+- Fix an issue that may cause when exporting table to insert statements, the column names not suitably been escaped.
+
 4.8.3 - Jan 24, 2021
 - Supports SQLite version 3.34.1 (2021-01-20).
 

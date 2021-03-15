@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.8.3 - Mar 14, 2021
+- Fix an issue that may cause when exporting table to insert statements, the column names not suitably been escaped.
+
 4.8.2 - Jan 10, 2021
 - Support for Japanese.
 

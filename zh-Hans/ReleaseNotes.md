@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新说明。
 ---
 
+4.8.4 - 2021年3月14日
+- 支持SQLite version 3.35.0 (2021-03-12)。
+- 修复了一个可能导致导出表数据到insert语句时没有格式化列名的问题。
+
 4.8.3 - 2021年1月24日
 - 支持SQLite version 3.34.1 (2021-01-20)。
 

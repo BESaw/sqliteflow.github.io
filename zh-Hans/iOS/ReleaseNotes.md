@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.8.3 - 2021年3月14日
+- 修复了一个可能导致导出表数据到insert语句时没有格式化列名的问题。
+
 4.8.2 - 2021年1月10日
 - 添加日语支持。
 

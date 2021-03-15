@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+4.8.4 - 2021年3月14日
+- SQLite バージョン 3.35.0 (2021-03-12) をサポート。
+- テーブルを insert ステートメントにエクスポートするときに、列名が適切にエスケープされない問題を修正します。
+
 4.8.3 - 2021年1月24日
 - SQLite バージョン 3.34.1 (2021-01-20) をサポート。
 

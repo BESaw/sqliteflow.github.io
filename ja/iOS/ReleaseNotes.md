@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.8.3 - 2021年3月14日
+- テーブルを insert ステートメントにエクスポートするときに、列名が適切にエスケープされない問題を修正します。
+
 4.8.2 - 2021年1月10日
 - 日本語のサポート。
 
