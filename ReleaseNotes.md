@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+4.9.0 - Mar 14, 2021
+- Supports SQLite version 3.35.3 (2021-03-26).
+- Query Editor, supports create a view from right click menu if user selected string has prefix "SELECT".
+- Data Editor, add a floating row header to data editor, it offers on more way to select rows, and could let user select a row without triggering editing.
+
 4.8.4 - Mar 14, 2021
 - Supports SQLite version 3.35.0 (2021-03-12).
 - Fix an issue that may cause when exporting table to insert statements, the column names not suitably been escaped.
