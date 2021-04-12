@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.8.4 - Apr 12, 2021
+- Shortcuts. When running an intent, SQLiteFlow now will try to download required files like database files, CSV files, etc, which are offloaded before actually do its job.
+
 4.8.3 - Mar 14, 2021
 - Fix an issue that may cause when exporting table to insert statements, the column names not suitably been escaped.
 

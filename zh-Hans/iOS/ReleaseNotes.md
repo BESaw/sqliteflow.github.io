@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+4.8.4 - 2021年4月12日
+- 捷径。当运行一个捷径程序时，SQLiteFlow现在首先会下载必要的但尚未被下载的文件，比如数据库文件，CSV文件等，然后再去做它的工作。
+
 4.8.3 - 2021年3月14日
 - 修复了一个可能导致导出表数据到insert语句时没有格式化列名的问题。
 
