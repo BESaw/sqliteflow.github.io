@@ -4,6 +4,12 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+4.9.2 - Apr 20, 2020
+- Bug fixes and stability improvements.
+
+4.9.1 - Apr 20, 2020
+- Supports SQLite version 3.35.5 (2021-04-19).
+
 4.9.0 - Mar 14, 2021
 - Supports SQLite version 3.35.3 (2021-03-26).
 - Query Editor, supports create a view from right click menu if user selected string has prefix "SELECT".
