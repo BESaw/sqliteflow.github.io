@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+5.0.1 - May 6, 2020
+- Bug fixes and stability improvements.
+
 5.0.0 - May 4, 2020
 - Add an operator "SQL" to Data Editor's filter feature.
 - Supports handle encrypted SQLite databases which are encrypted by SQLCipher library.

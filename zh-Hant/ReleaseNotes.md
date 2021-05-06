@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新說明。
 ---
 
+5.0.1 - 2021年5月6日
+- 問題修復與穩定性改善。
+
 5.0.0 - 2021年5月4日
 - 在資料編輯器的過濾功能中增加了一個「SQL」操作符。
 - 支援處理經SQLCipher庫加密的資料庫。

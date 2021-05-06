@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+5.0.1 - 2021年5月6日
+- バグ修正と安定性の向上。
+
 5.0.0 - 2021年5月4日
 - データエディタのフィルタ機能に演算子「SQL」を追加します。
 - SQLCipher ライブラリによって暗号化された暗号化された SQLite データベースを処理できます。
