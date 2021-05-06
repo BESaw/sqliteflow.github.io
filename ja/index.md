@@ -104,6 +104,9 @@ macOS 10.14+ / [iOS 13.0+](iOS)
 **REGEXP 演算子**
 - 環境設定で'REGEXP演算子'が有効になっている場合、ローカルデータベースのREGEXPオペレータをサポートします。
 
+**データベースの暗号化**
+- SQLCipher ライブラリによって暗号化された暗号化された SQLite データベースを処理できます。
+
 **言語**
 - [English](/) \| [简体中文 (Chinese, Simplified)](/zh-Hans) \| [繁體中文 (Chinese, Traditional)](/zh-Hant) \|日本語 (Japanese)
 

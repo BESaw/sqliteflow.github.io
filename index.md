@@ -104,6 +104,9 @@ Version 5.0.1 | May 6, 2021 | <a href="ReleaseNotes" target="_blank">Release Not
 **REGEXP operator**
 - Supports REGEXP operator for local databases when 'REGEXP operator' is enabled in Preferences.
 
+**Database Encryption**
+- Supports handle encrypted SQLite databases which are encrypted by SQLCipher library.
+
 **Languages**
 - English \| [简体中文 (Chinese, Simplified)](/zh-Hans) \| [繁體中文 (Chinese, Traditional)](/zh-Hant) \| [日本語 (Japanese)](/ja)
 

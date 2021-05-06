@@ -104,6 +104,9 @@ macOS 10.14+ / [iOS 13.0+](iOS)
 **REGEXP運算子**
 - 當您在偏好設定中開啟‘REGEXP運算子’後，您就可以在資料編輯器或者SQL編輯器中使用REGEXP運算子了。
 
+**資料庫加密**
+- 支援處理經SQLCipher庫加密的資料庫。
+
 **語言**
 - [English](/) \| [简体中文 (Chinese, Simplified)](/zh-Hans) \| 繁體中文 (Chinese, Traditional) \| [日本語 (Japanese)](/ja)
 
