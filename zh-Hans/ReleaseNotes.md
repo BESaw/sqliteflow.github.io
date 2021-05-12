@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新说明。
 ---
 
+5.0.2 - 2021年5月11日
+- 改进SQL代码自动补全功能。
+- 其它问题修复与稳定性改善。
+
 5.0.1 - 2021年5月6日
 - 问题修复与稳定性改善。
 

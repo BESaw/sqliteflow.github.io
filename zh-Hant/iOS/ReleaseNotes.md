@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+5.0.2 - 2021年5月11日
+- 改進SQL程式碼自動補全功能。
+- 其它問題修復與穩定性改善。
+
 4.8.4 - 2021年4月12日
 - 捷徑。當執行一個捷徑程式時，SQLiteFlow現在首先會下載必要的但尚未被下載的檔案，比如資料庫檔案，CSV檔案等，然後再去做它的工作。
 
