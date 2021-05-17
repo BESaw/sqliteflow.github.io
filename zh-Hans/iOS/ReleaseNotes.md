@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+5.0.4 - 2021年5月17日
+- 改进SQL代码自动补全功能。
+
 5.0.3 - 2021年5月16日
 - 改进SQL代码自动补全功能。
 

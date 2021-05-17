@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+5.0.4 - May 17, 2020
+- Enhancement to the code auto completion behavior.
+
 5.0.3 - May 16, 2020
 - Enhancement to the code auto completion behavior.
 
