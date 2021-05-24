@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+5.0.5 - 2021年5月21日
+- 當軟體語言設定為簡體中文時，查詢編輯器的程式碼自動補全功能支援使用拼音來檢索出對應的表名或欄位。
+
 5.0.4 - 2021年5月17日
 - 改進SQL程式碼自動補全功能。
 

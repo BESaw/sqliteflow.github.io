@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+5.0.5 - May 21, 2020
+- When the app's language is set to Simplified Chinese, Query Editor's SQL auto-completion feature now supports use Pinyin to search specific table names or fields.
+
 5.0.4 - May 17, 2020
 - Enhancement to the code auto completion behavior.
 
