@@ -4,6 +4,14 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+5.2.0 - Jul 21, 2020
+- Query Editor, supports syntax aware indenting when typing Return.
+- Additional bug fixes and stability improvements.
+
+5.1.0 - Jul 6, 2020
+- Supports show table fields information in database list. The information currently contains field name, field type, not null constraints and primary key constraints.
+- Supports manually specific light/dark appearance.
+
 5.0.8 - Jun 21, 2020
 - Supports SQLite version 3.36.0 (2021-06-18).
 
