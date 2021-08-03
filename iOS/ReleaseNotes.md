@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+5.1.0 - Aug 3, 2020
+- UI enhancement.
+- Query Editor, supports syntax aware indenting when typing Return.
+- Additional bug fixes and stability improvements.
+
 5.0.5 - May 21, 2020
 - When the app's language is set to Simplified Chinese, Query Editor's SQL auto-completion feature now supports use Pinyin to search specific table names or fields.
 
