@@ -8,7 +8,7 @@ description: SQLite editor for iOS
 SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reliable to use.
 
 ## Platform
-[macOS 10.14+](./) / iOS 13.0+
+[macOS 10.14+](./) / iOS 14.1+
 
 ## Download
 Version 5.1.0 | Aug 3, 2021 | <a href="iOS/ReleaseNotes" target="_blank">Release Notes</a>
@@ -20,7 +20,7 @@ Version 5.1.0 | Aug 3, 2021 | <a href="iOS/ReleaseNotes" target="_blank">Release
 - Manage files. Supports add, remove, duplicate, rename folders, SQLite databases, SQL files, CSV files, etc.
 - Supports import database from iCloud Drive by the file picker.
 - Supports open external SQL files, CSV files and Filter files in place.
-- Supports open external folders in place. Requires iOS 13.0 or iPadOS 13.0.
+- Supports open external folders in place.
 - Supports show recents files.
 
 *Browse*
