@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+5.1.1 - 2021年8月12日
+- 问题修复与稳定性改善。
+
 5.1.0 - 2021年8月3日
 - UI改进。
 - 查询编辑器，支持键入回车键时执行语法感知缩进。

@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+5.1.1 - 2021年8月12日
+- バグ修正と安定性の向上。
+
 5.1.0 - 2021年8月3日
 - UI エンハンスメント。
 - クエリ エディターは、Return を入力する際に構文認識インデントをサポートします。

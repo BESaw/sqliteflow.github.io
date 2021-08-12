@@ -4,45 +4,48 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
-5.2.0 - Jul 21, 2020
+5.2.1 - Aug 12, 2021
+- Supports show table/view counts in Database List.
+
+5.2.0 - Jul 21, 2021
 - Query Editor, supports syntax aware indenting when typing Return.
 - Additional bug fixes and stability improvements.
 
-5.1.0 - Jul 6, 2020
+5.1.0 - Jul 6, 2021
 - Supports show table fields information in database list. The information currently contains field name, field type, not null constraints and primary key constraints.
 - Supports manually specific light/dark appearance.
 
-5.0.8 - Jun 21, 2020
+5.0.8 - Jun 21, 2021
 - Supports SQLite version 3.36.0 (2021-06-18).
 
-5.0.6 - May 24, 2020
+5.0.6 - May 24, 2021
 - Bug fixes and stability improvements.
 
-5.0.5 - May 21, 2020
+5.0.5 - May 21, 2021
 - When the app's language is set to Simplified Chinese, Query Editor's SQL auto-completion feature now supports use Pinyin to search specific table names or fields.
 
-5.0.4 - May 17, 2020
+5.0.4 - May 17, 2021
 - Enhancement to the code auto completion behavior.
 
-5.0.3 - May 16, 2020
+5.0.3 - May 16, 2021
 - Enhancement to the code auto completion behavior.
 
-5.0.2 - May 11, 2020
+5.0.2 - May 11, 2021
 - Enhancement to the code auto completion behavior.
 - Additional bug fixes and stability improvements.
 
-5.0.1 - May 6, 2020
+5.0.1 - May 6, 2021
 - Bug fixes and stability improvements.
 
-5.0.0 - May 4, 2020
+5.0.0 - May 4, 2021
 - Add an operator "SQL" to Data Editor's filter feature.
 - Supports handle encrypted SQLite databases which are encrypted by SQLCipher library.
 - Additional bug fixes and stability improvements.
 
-4.9.2 - Apr 20, 2020
+4.9.2 - Apr 20, 2021
 - Bug fixes and stability improvements.
 
-4.9.1 - Apr 20, 2020
+4.9.1 - Apr 20, 2021
 - Supports SQLite version 3.35.5 (2021-04-19).
 
 4.9.0 - Mar 14, 2021

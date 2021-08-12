@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+5.1.1 - Aug 12, 2020
+- Bug fixes and stability improvements.
+
 5.1.0 - Aug 3, 2020
 - UI enhancement.
 - Query Editor, supports syntax aware indenting when typing Return.
