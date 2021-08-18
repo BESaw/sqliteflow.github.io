@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+5.1.2 - Aug 18, 2020
+- Shortcuts, allows "Run Query" and "Import CSV" run when device is locked to make it convenient for automation purpose.
+
 5.1.1 - Aug 12, 2020
 - Bug fixes and stability improvements.
 
