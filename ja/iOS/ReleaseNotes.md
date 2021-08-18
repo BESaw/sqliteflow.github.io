@@ -10,6 +10,7 @@ description: SQLiteFlow for iOS release notes.
 5.1.0 - 2021年8月3日
 - UI エンハンスメント。
 - クエリ エディターは、Return を入力する際に構文認識インデントをサポートします。
+- このバージョンの SQLiteFlow には iOS 14.1+ 以降が必要になりました。
 - 追加のバグ修正と安定性の向上。
 
 5.0.5 - 2021年5月21日
